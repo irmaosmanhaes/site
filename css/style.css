@@ -42,6 +42,10 @@ main{padding:16px}
 .produto .preco{font-size:2rem}
 .produto .acoes{display:flex;flex-direction:column;gap:10px;margin:18px 0}
 .produto .selos{color:var(--mut);font-size:.88rem;line-height:1.6}
+.whats{position:fixed;right:16px;bottom:16px;z-index:20;display:flex;align-items:center;gap:8px;background:#25d366;color:#fff;text-decoration:none;font-weight:700;padding:12px 16px;border-radius:999px;box-shadow:0 4px 14px #0004}
+.whats svg{width:26px;height:26px}
+.whats:hover{filter:brightness(.93)}
+@media(max-width:600px){.whats span{display:none}.whats{padding:13px}}
 footer{background:var(--azul-esc);color:#d9dcf2;padding:28px 16px;margin-top:32px;font-size:.92rem}
 footer .in{display:flex;gap:24px;flex-wrap:wrap;justify-content:space-between}
 footer a{color:#fff}
