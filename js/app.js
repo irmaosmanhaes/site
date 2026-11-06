@@ -26,6 +26,43 @@ function botaoWhats(msg) {
   a.innerHTML = `<svg viewBox="0 0 32 32" aria-hidden="true"><path fill="#fff" d="M16 3C9 3 3.4 8.6 3.4 15.5c0 2.3.6 4.4 1.7 6.3L3 29l7.4-2c1.8 1 3.8 1.500 5.900 1.500 6.900 0 12.600-5.600 12.600-12.500S22.900 3 16 3zm0 22.900c-1.900 0-3.700-.5-5.300-1.500l-.4-.2-4.400 1.200 1.200-4.300-.3-.4a10.300 10.300 0 0 1-1.600-5.600C5.200 9.900 10 5.200 16 5.200s10.800 4.700 10.800 10.400S21.900 25.900 16 25.900zm5.900-7.700c-.3-.2-1.900-.9-2.200-1-.3-.1-.5-.2-.7.200l-1 1.200c-.2.200-.4.200-.7.100-1.900-.9-3.100-1.700-4.300-3.800-.3-.6.300-.5.900-1.700.1-.2 0-.4 0-.5l-1-2.300c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.6.100-.9.400-.3.300-1.200 1.100-1.200 2.800s1.200 3.300 1.400 3.500c.2.200 2.400 3.700 5.800 5.100 2.100.9 2.900.9 3.900.8.600-.1 1.900-.8 2.200-1.500.3-.8.300-1.400.2-1.500-.1-.2-.3-.2-.6-.4z"/></svg><span>Fale conosco</span>`;
 }
 
+function carrossel() {
+  const el = document.getElementById('banners');
+  if (!el) return;
+  const wa = 'https://wa.me/' + WHATS + '?text=' + encodeURIComponent('Olá! Vim pelo site da Irmãos Manhães e gostaria de mais informações.');
+  const slides = [
+    { src: 'img/banner-whatsapp.jpg', alt: 'Compre pelo WhatsApp (21) 2701-1051. Atendimento de segunda a sexta, das 8h às 18h, e aos sábados, das 8h às 14h.', href: wa },
+    { src: 'img/banner-entrega.jpg', alt: 'Aqui na Irmãos Manhães tem entrega para todo o Rio de Janeiro. Consulte condições com nossos vendedores.', href: wa }
+  ];
+  el.innerHTML = '<div class="bn-track"></div><div class="bn-dots"></div>';
+  const track = el.querySelector('.bn-track'), dots = el.querySelector('.bn-dots');
+  let atual = 0, timer;
+  const ir = n => {
+    const itens = track.children;
+    if (!itens.length) return;
+    atual = (n + itens.length) % itens.length;
+    [...itens].forEach((s, i) => s.classList.toggle('on', i === atual));
+    [...dots.children].forEach((d, i) => d.classList.toggle('on', i === atual));
+  };
+  const iniciar = () => { clearInterval(timer); if (track.children.length > 1) timer = setInterval(() => ir(atual + 1), 5500); };
+  slides.forEach(s => {
+    const a = document.createElement('a');
+    a.className = 'bn-slide'; a.href = s.href; a.target = '_blank'; a.rel = 'noopener';
+    const img = new Image();
+    img.alt = s.alt;
+    img.onload = () => {
+      a.appendChild(img); track.appendChild(a);
+      const d = document.createElement('button'); d.setAttribute('aria-label', 'Banner ' + (track.children.length));
+      const idx = track.children.length - 1; d.onclick = () => { ir(idx); iniciar(); }; dots.appendChild(d);
+      if (track.children.length === 1) { ir(0); }
+      dots.style.display = track.children.length > 1 ? '' : 'none';
+      el.style.display = ''; iniciar();
+    };
+    img.src = s.src;
+  });
+  el.style.display = 'none';
+}
+
 async function carregar() {
   const r = await fetch('data/produtos.json');
   return r.json();
@@ -48,6 +85,7 @@ function cardHtml(p) {
 
 async function iniciarCatalogo() {
   cabecalho();
+  carrossel();
   const { produtos } = await carregar();
   const grade = document.getElementById('grade');
   const busca = document.getElementById('busca');
