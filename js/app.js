@@ -12,7 +12,18 @@ function cabecalho() {
   document.getElementById('rodape').innerHTML = `<div class="in">
     <div><strong>Irmãos Manhães</strong><br>40+ anos de confiança e tradição<br>Alcântara - São Gonçalo/RJ</div>
     <div>Compra 100% segura pelo Mercado Livre.<br>Ao clicar em comprar você é levado ao anúncio oficial.</div>
-    <div><a href="https://www.instagram.com/irmaosmanhaes/" target="_blank" rel="noopener">@irmaosmanhaes</a><br><a href="https://linktr.ee/irmaosmanhaes" target="_blank" rel="noopener">Fale conosco</a></div></div>`;
+    <div><a href="https://www.instagram.com/irmaosmanhaes/" target="_blank" rel="noopener">@irmaosmanhaes</a><br>WhatsApp: (21) 2701-1051</div></div>`;
+  botaoWhats('Olá! Vim pelo site da Irmãos Manhães e gostaria de mais informações.');
+}
+
+const WHATS = '552127011051';
+function botaoWhats(msg) {
+  const url = 'https://wa.me/' + WHATS + '?text=' + encodeURIComponent(msg);
+  let a = document.getElementById('whats');
+  if (!a) { a = document.createElement('a'); a.id = 'whats'; a.className = 'whats'; a.target = '_blank'; a.rel = 'noopener'; document.body.appendChild(a); }
+  a.href = url;
+  a.setAttribute('aria-label', 'Falar no WhatsApp');
+  a.innerHTML = `<svg viewBox="0 0 32 32" aria-hidden="true"><path fill="#fff" d="M16 3C9 3 3.4 8.6 3.4 15.5c0 2.3.6 4.4 1.7 6.3L3 29l7.4-2c1.8 1 3.8 1.500 5.900 1.500 6.900 0 12.600-5.600 12.600-12.500S22.900 3 16 3zm0 22.900c-1.900 0-3.700-.5-5.300-1.500l-.4-.2-4.400 1.200 1.200-4.300-.3-.4a10.300 10.300 0 0 1-1.600-5.600C5.200 9.900 10 5.200 16 5.200s10.800 4.700 10.800 10.400S21.900 25.900 16 25.900zm5.900-7.700c-.3-.2-1.900-.9-2.200-1-.3-.1-.5-.2-.7.200l-1 1.200c-.2.200-.4.200-.7.100-1.900-.9-3.100-1.700-4.300-3.800-.3-.6.300-.5.900-1.700.1-.2 0-.4 0-.5l-1-2.300c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.6.100-.9.400-.3.300-1.200 1.100-1.200 2.800s1.200 3.300 1.400 3.500c.2.200 2.400 3.700 5.800 5.100 2.100.9 2.900.9 3.900.8.600-.1 1.900-.8 2.200-1.500.3-.8.300-1.400.2-1.500-.1-.2-.3-.2-.6-.4z"/></svg><span>Fale conosco</span>`;
 }
 
 async function carregar() {
@@ -86,5 +97,6 @@ async function iniciarProduto() {
     <div class="acoes"><a class="btn" href="${esc(p.linkMercadoLivre)}" target="_blank" rel="noopener">Comprar no Mercado Livre</a>
     <a class="btn sec" href="index.html?cat=${encodeURIComponent(p.categoria)}">Ver mais em ${esc(p.categoria)}</a></div>
     <div class="selos">✔ Compra protegida pelo Mercado Livre<br>✔ Vendido por Irmãos Manhães<br>ℹ Preço e estoque confirmados no anúncio</div></div>`;
+  botaoWhats(`Olá! Vim pelo site da Irmãos Manhães e tenho interesse neste produto: ${p.nome} (${brl(p.preco)}). Está disponível?`);
   if (rel.length) document.getElementById('rel').innerHTML = '<h2>Veja também</h2><div class="grade">' + rel.map(cardHtml).join('') + '</div>';
 }
