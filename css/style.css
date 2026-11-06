@@ -65,6 +65,9 @@ main{padding:16px}
 .whats:hover{filter:brightness(.93)}
 @media(max-width:600px){.whats span{display:none}.whats{padding:13px}}
 footer{background:var(--azul-esc);color:#d9dcf2;padding:28px 16px;margin-top:32px;font-size:.92rem}
-footer .in{display:flex;gap:24px;flex-wrap:wrap;justify-content:space-between}
+footer .in{display:flex;gap:28px;flex-wrap:wrap;justify-content:space-between}
+.rod-cats{display:flex;flex-direction:column;gap:3px;font-size:.85rem}
+.rod-fim{margin-top:18px;padding-top:14px;border-top:1px solid #ffffff24;font-size:.82rem;opacity:.85}
+.sobre{color:var(--mut);font-size:.88rem;line-height:1.5;margin-top:14px}
 footer a{color:#fff}
 @media(max-width:700px){.produto{grid-template-columns:1fr}.hero h1{font-size:1.35rem}header nav{margin-left:0}}
