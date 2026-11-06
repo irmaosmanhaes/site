@@ -11,6 +11,19 @@ header .in{display:flex;align-items:center;gap:16px;padding:10px 16px;flex-wrap:
 .logo small{display:block;font-weight:600;font-size:.62rem;color:var(--mut);margin-top:3px;letter-spacing:0}
 header nav{margin-left:auto;display:flex;gap:14px;font-weight:600;font-size:.95rem}
 header nav a{text-decoration:none;color:var(--azul)}
+.banners{position:relative;margin-bottom:20px;border-radius:14px;overflow:hidden;box-shadow:0 4px 16px #1d20332e;background:#e9ebf3}
+.intro{margin:0 0 18px}
+.intro h1{margin:0 0 4px;font-size:1.35rem;color:var(--azul)}
+.intro p{margin:0;color:var(--mut);font-size:.95rem;line-height:1.45}
+.intro strong{color:var(--txt)}
+.bn-track{position:relative;width:100%;aspect-ratio:1280/333}
+.bn-slide{position:absolute;inset:0;opacity:0;transition:opacity .6s;pointer-events:none;display:block}
+.bn-slide.on{opacity:1;pointer-events:auto}
+.bn-slide img{width:100%;height:100%;object-fit:cover;display:block}
+.bn-dots{position:absolute;left:0;right:0;bottom:8px;display:flex;justify-content:center;gap:8px}
+.bn-dots button{width:10px;height:10px;border-radius:50%;border:0;background:#fff9;padding:0;cursor:pointer}
+.bn-dots button.on{background:#fff;box-shadow:0 0 0 1px #0004}
+@media(max-width:600px){.bn-track{aspect-ratio:1280/333;min-height:84px}}
 .hero{background:linear-gradient(135deg,var(--azul-esc),var(--azul));color:#fff;padding:28px 16px}
 .hero h1{margin:0 0 6px;font-size:1.7rem}
 .hero p{margin:0;opacity:.9}
