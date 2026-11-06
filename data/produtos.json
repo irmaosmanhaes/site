@@ -1,0 +1,2865 @@
+{
+ "loja": {
+  "nome": "Irmãos Manhães",
+  "lojaMercadoLivre": "https://lista.mercadolivre.com.br/_CustId_3507019380",
+  "instagram": "https://www.instagram.com/irmaosmanhaes/"
+ },
+ "produtos": [
+  {
+   "id": "mlb26716510",
+   "nome": "Manta Asfáltica Dryko Vedatudo 20cm X 10m Aluminizada",
+   "categoria": "Construção",
+   "marca": "Dryko",
+   "preco": 43.6,
+   "precoAntigo": 45.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_632044-MLA112255909774_062026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB26716510"
+  },
+  {
+   "id": "mlb20981057",
+   "nome": "Resistência Lorenzetti Linha Acqua Ultra 220/6800 Ref 3065A Acabamento Plástico Cor Branco",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Lorenzetti",
+   "preco": 90.15,
+   "precoAntigo": 99.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_852566-MLA100068629949_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB20981057"
+  },
+  {
+   "id": "mlb46067344",
+   "nome": "Motosserra Toyama Tcs58h-18snb A Gasolina Cor Branco",
+   "categoria": "Motores e Motosserras",
+   "marca": "Toyama",
+   "preco": 899.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_852288-MLA112550205370_062026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB46067344"
+  },
+  {
+   "id": "mlb15301771",
+   "nome": "Lixadeira Roto Orbital DeWalt DWE6421 de 280W",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Dewalt",
+   "preco": 634.77,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_750868-MLA115306090264_082026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15301771"
+  },
+  {
+   "id": "mlb21421133",
+   "nome": "Resistencia Ducha Lorenzetti Advanced E Topjet 220v 7500w Cor Branco",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Lorenzetti",
+   "preco": 55.89,
+   "precoAntigo": 58.84,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_662383-MLA99933080163_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB21421133"
+  },
+  {
+   "id": "mlb19641757",
+   "nome": "Dancor Pratika CP-4R Bomba centrífuga monofásica 0.25cv cor preto 60Hz",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 714.66,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_720352-MLA100001224177_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19641757"
+  },
+  {
+   "id": "mlb36971981",
+   "nome": "Máscara De Solda Automática Tonalidade 11 - Optiarc70 Boxer",
+   "categoria": "Solda",
+   "marca": "Boxer",
+   "preco": 143.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_775924-MLA99943862283_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB36971981"
+  },
+  {
+   "id": "mlb14630056",
+   "nome": "Bomba D´água Periférica 1/2 Hp Bp500 Intech Machine Cor Laranja Frequência 60 Hz",
+   "categoria": "Bombas d'Água",
+   "marca": "Intech Machine",
+   "preco": 150.38,
+   "precoAntigo": 158.3,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_926578-MLA99949631787_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB14630056"
+  },
+  {
+   "id": "mlb42189830",
+   "nome": "Sifão Universal Flexível Multiuso 66cm Branco Tigre Pias",
+   "categoria": "Hidráulica",
+   "marca": "Tigre",
+   "preco": 14.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_663661-MLA120427465339_102026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB42189830"
+  },
+  {
+   "id": "mlb68228944",
+   "nome": "Aparador De Grama Rocadeira Eletrica Trapp Master 1800w 127v Verde Bipartido",
+   "categoria": "Jardim",
+   "marca": "Trapp",
+   "preco": 316.25,
+   "precoAntigo": 332.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_752936-MLA109670071604_042026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB68228944"
+  },
+  {
+   "id": "mlb16181640",
+   "nome": "Bomba Autoaspirante Dancor Modelo Ultra DA-2 1/2cv Monofásica Cor Laranja",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 653.61,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_862371-MLA96098701873_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB16181640"
+  },
+  {
+   "id": "mlb19754413",
+   "nome": "Resistencia Lorenzetti Advanced e TopJet Multitemperaturas/Turbo 5500w",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Lorenzetti",
+   "preco": 63.55,
+   "precoAntigo": 66.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_693353-MLA99583728542_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19754413"
+  },
+  {
+   "id": "mlb37816786",
+   "nome": "Plaina Elétrica 82mm 710w Bew712 Black+decker Cor Laranja",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 430.72,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_770182-MLA99919122841_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB37816786"
+  },
+  {
+   "id": "mlb52130816",
+   "nome": "Manta Asfáltica 90cm Auto Adesiva Aluminizada Fita Vedatudo Multiuso Telhado - Dryko X Lupan",
+   "categoria": "Construção",
+   "marca": "Dryko",
+   "preco": 207.43,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_981694-MLA99455267728_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB52130816"
+  },
+  {
+   "id": "mlb15542598",
+   "nome": "Caixa de Ferramentas 13\" 11L Modelo DWST17807 PRETA Dewalt",
+   "categoria": "Organização de Ferramentas",
+   "marca": "Dewalt",
+   "preco": 249.23,
+   "precoAntigo": 262.35,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_788904-MLA99963240953_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15542598"
+  },
+  {
+   "id": "mlb27990914",
+   "nome": "Nível a Laser Dewalt DW088K Vermelho Autonivelante 15m Linha Cruzada com Maleta, Suporte e Pilhas",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Dewalt",
+   "preco": 654.55,
+   "precoAntigo": 689.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_848815-MLA99587800412_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB27990914"
+  },
+  {
+   "id": "mlb21595671",
+   "nome": "Bomba Ejetora Dancor Centrífuga Autoaspirante 1cv 34m",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 2046.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_678060-MLA99494928948_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB21595671"
+  },
+  {
+   "id": "mlb32089554",
+   "nome": "Kit 15 Tomada Simples 4x2 Embutir 2p+t Tramontina Branco 10A",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Tramontina",
+   "preco": 106.75,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_991314-MLA95501706576_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB32089554"
+  },
+  {
+   "id": "mlb47130838",
+   "nome": "Motobomba Centrífuga Para Piscina XKP405 Lepono 1/3 hp 0,33 cv Monofásica 9.7 m³/h",
+   "categoria": "Bombas para Piscina",
+   "marca": "Lepono",
+   "preco": 517.51,
+   "precoAntigo": 562.51,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_622353-MLA96152906201_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB47130838"
+  },
+  {
+   "id": "mlb15567088",
+   "nome": "Bomba Para Piscina Dancor Pf-17 1/2 Cv Monofásica com Pré-Filtro - Até 50.000 Litros",
+   "categoria": "Bombas para Piscina",
+   "marca": "Dancor",
+   "preco": 908.86,
+   "precoAntigo": 956.7,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_774029-MLA95696765200_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15567088"
+  },
+  {
+   "id": "mlb49969694",
+   "nome": "Triturador Tramontina Te 25t 79852342 2cv Martelo Jardim",
+   "categoria": "Jardim",
+   "marca": "Tramontina",
+   "preco": 1799.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_640336-MLA99542517254_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB49969694"
+  },
+  {
+   "id": "mlb27711996",
+   "nome": "Quadro Distribuição Embutir 6/8 Disjuntores Branco Tigre S/Bar",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Tigre",
+   "preco": 107.83,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_704125-MLA93502343693_092025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB27711996"
+  },
+  {
+   "id": "mlb15462665",
+   "nome": "Motosserra Toyama Ocasional Gasolina 45cc 2.3hp TCS46HLP16SN-GII",
+   "categoria": "Motores e Motosserras",
+   "marca": "Toyama",
+   "preco": 839.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_615227-MLA99929367259_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15462665"
+  },
+  {
+   "id": "mlb20868313",
+   "nome": "Organizador DeWalt TSTAK DWST17805 Tampa Translúcida",
+   "categoria": "Organização de Ferramentas",
+   "marca": "Dewalt",
+   "preco": 499.6,
+   "precoAntigo": 525.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_724254-MLA99994103363_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB20868313"
+  },
+  {
+   "id": "mlb22713582",
+   "nome": "Torre Maleta de Ferramentas com Rodas Dewalt DWST60404 3 Módulos, Capacidade 50kg, Preta",
+   "categoria": "Organização de Ferramentas",
+   "marca": "Dewalt",
+   "preco": 1101.0,
+   "precoAntigo": 1159.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_671477-MLA100028533583_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB22713582"
+  },
+  {
+   "id": "mlb19589640",
+   "nome": "Acabamento para Registro Pressão Gaveta Tigre Gyro Universal Fabrimar Acabamento Brilhante Cor Prateado",
+   "categoria": "Hidráulica",
+   "marca": "Fabrimar",
+   "preco": 56.9,
+   "precoAntigo": 59.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_979311-MLA95637400440_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19589640"
+  },
+  {
+   "id": "mlb22508486",
+   "nome": "Politriz Angular 7\" Black Decker Potência 1300W Com Maleta de Ferramentas Boné de Polimento Disco de Borracha Empunhadura Lateral e Chave de Aperto Modelo WP1500K",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 606.43,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_687457-MLU70045369246_062023-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB22508486"
+  },
+  {
+   "id": "mlb16213755",
+   "nome": "Bomba Schneider Centrifuga BC-98 - 1/2cv Fase elétrica Monofásica Frequência 60 Hz",
+   "categoria": "Bombas d'Água",
+   "marca": "Schneider",
+   "preco": 703.4,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_891096-MLA99531229534_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB16213755"
+  },
+  {
+   "id": "mlb23547789",
+   "nome": "Motor Gasolina 7 HP 4 Tempos 210cc Toyama Eixo Chavetado TE70 XP",
+   "categoria": "Motores e Motosserras",
+   "marca": "Toyama",
+   "preco": 973.35,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_741320-MLA99527776284_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB23547789"
+  },
+  {
+   "id": "mlb18357322",
+   "nome": "Parafusadeira/Furadeira De Impacto Dewalt Dcd7781d2 20v Brushless Mandril 13mm Torque 65nm Com 2 Baterias 2A.h Carregador Bivolt E Maleta Amarelo 127/220v",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Dewalt",
+   "preco": 951.91,
+   "precoAntigo": 1119.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_660531-MLA113249733346_072026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB18357322"
+  },
+  {
+   "id": "mlb39084163",
+   "nome": "Resistencia para Chuveiro Acqua Duo Ultra Lorenzetti 5500w",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Lorenzetti",
+   "preco": 94.9,
+   "precoAntigo": 99.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_694045-MLA99441441880_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB39084163"
+  },
+  {
+   "id": "mlb24216084",
+   "nome": "Bomba De Piscina Pré Filtro 1/3 Cv Monofásico Lepono Xkp 405",
+   "categoria": "Bombas para Piscina",
+   "marca": "Lepono",
+   "preco": 508.59,
+   "precoAntigo": 581.91,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_657079-MLA95679020058_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB24216084"
+  },
+  {
+   "id": "mlb35715439",
+   "nome": "Acabamento Petra Fabrimar Registro Chuveiro Metal 1/2 3/4 Prateado",
+   "categoria": "Hidráulica",
+   "marca": "Fabrimar",
+   "preco": 66.4,
+   "precoAntigo": 69.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_609173-MLA99453110346_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB35715439"
+  },
+  {
+   "id": "mlb19728470",
+   "nome": "Motobomba Periférica Autoaspirante 1/2CV Claw WMPA37H Azul",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 339.41,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_993849-MLA96078170717_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19728470"
+  },
+  {
+   "id": "mlb34177342",
+   "nome": "Acabamento p/ Registro Universal Fabrimar Ascot A1, Cromado",
+   "categoria": "Hidráulica",
+   "marca": "Fabrimar",
+   "preco": 74.95,
+   "precoAntigo": 78.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_817449-MLA95732941632_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB34177342"
+  },
+  {
+   "id": "mlb37916231",
+   "nome": "BOMBA PERIFÉRICA DPA-40 AUTOASPIRANTE 1/2CV Bivolt Azul DANCOR",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 262.21,
+   "precoAntigo": 301.39,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_923149-MLA113491231338_072026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB37916231"
+  },
+  {
+   "id": "mlb26293763",
+   "nome": "Dancor Pf-17 bomba para piscina 3/4cv monofásica",
+   "categoria": "Bombas para Piscina",
+   "marca": "Dancor",
+   "preco": 1091.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_795763-MLA99455772824_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB26293763"
+  },
+  {
+   "id": "mlb55146891",
+   "nome": "Furadeira de Impacto 1/2\" BLACK+DECKER BED713650 650W",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 216.5,
+   "precoAntigo": 239.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_634557-MLA91963077515_092025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB55146891"
+  },
+  {
+   "id": "mlb19846747",
+   "nome": "Bomba Centrífuga Piscina Lepono XKP554A 1/2 CV Até 50 Mil Litros",
+   "categoria": "Bombas para Piscina",
+   "marca": "Lepono",
+   "preco": 799.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_825858-MLA96137733471_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19846747"
+  },
+  {
+   "id": "mlb24648972",
+   "nome": "Motor a gasolina 8hp 4T 212cc partida manual TE80JETHSXP",
+   "categoria": "Motores e Motosserras",
+   "marca": "",
+   "preco": 1190.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_756155-MLA111618938850_062026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB24648972"
+  },
+  {
+   "id": "mlb20611846",
+   "nome": "Bomba Centrífuga Autoaspirante Claw WMA150H 1,5CV Monofásica",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 799.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_969366-MLA96134248849_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB20611846"
+  },
+  {
+   "id": "mlb19641758",
+   "nome": "Bomba Centrífuga Monofásica Dancor CP-4R 1/2CV 60Hz Preto",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 731.02,
+   "precoAntigo": 769.5,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_805707-MLA99503731084_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19641758"
+  },
+  {
+   "id": "mlb74554237",
+   "nome": "Bomba Ejetora Para Poço Dancor Ep 2-1 1,0 Cv Cor Preto Fase Preto 50/60 Monofásica",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 2001.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_713003-MLA112580189064_062026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB74554237"
+  },
+  {
+   "id": "mlb61710993",
+   "nome": "Parafusadeira Furadeira Impacto 3/8 Bcd712vhd Black Decker - Laranja - 60",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 260.3,
+   "precoAntigo": 274.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_864152-MLA96882821662_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB61710993"
+  },
+  {
+   "id": "mlb23033658",
+   "nome": "Bomba Centrífuga Dancor DC-4 Monofásica 1/2CV Plástico Resistente",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 595.15,
+   "precoAntigo": 626.48,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_973135-MLA99447300340_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB23033658"
+  },
+  {
+   "id": "mlb15300669",
+   "nome": "Máquina De Solda Inverter Boxer Flama 161 Bv Azul E Preta 11 Azul/preto",
+   "categoria": "Solda",
+   "marca": "Boxer",
+   "preco": 926.69,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_880185-MLA99552367884_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15300669"
+  },
+  {
+   "id": "mlb19698825",
+   "nome": "Ventilador De Mesa Premium 50cm 170w Venti Delta Bivolt Preto Natural",
+   "categoria": "Climatização",
+   "marca": "Venti-Delta",
+   "preco": 446.4,
+   "precoAntigo": 469.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_792471-MLA99448145066_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19698825"
+  },
+  {
+   "id": "mlb9119995",
+   "nome": "Furadeira de Impacto 13mm 750W DEWALT DWD502 Com Velocidade Variável e Reversível",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Dewalt",
+   "preco": 408.4,
+   "precoAntigo": 429.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_703965-MLA99938775653_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB9119995"
+  },
+  {
+   "id": "mlb18617655",
+   "nome": "Politriz Automotiva 5 B&d Wp600k",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 569.89,
+   "precoAntigo": 599.89,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_655078-MLA99906931243_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB18617655"
+  },
+  {
+   "id": "mlb29699556",
+   "nome": "Máquina Inversora De Solda 140 Amperes Touch145 Boxer Cor Azul",
+   "categoria": "Solda",
+   "marca": "Boxer",
+   "preco": 590.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_619399-MLA99980491137_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB29699556"
+  },
+  {
+   "id": "mlb20698519",
+   "nome": "Motobomba Periférica Claw Autoaspirante 1CV Bivolt Ferro Fundido",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 617.4,
+   "precoAntigo": 649.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_897821-MLA95661824596_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB20698519"
+  },
+  {
+   "id": "mlb24401936",
+   "nome": "Motobomba Submersa Esgoto Claw 1.5cv Mono WMSE1.1H",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 1479.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_752727-MLA99490059230_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB24401936"
+  },
+  {
+   "id": "mlb66346982",
+   "nome": "Máquina Inversora De Solda Boxer 200a Flama 201bv",
+   "categoria": "Solda",
+   "marca": "Boxer",
+   "preco": 1389.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_975371-MLA108325540655_032026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB66346982"
+  },
+  {
+   "id": "mlb15462249",
+   "nome": "Furadeira De Impacto 3/8 Wesco Ws3173u 550w Cor Azul Frequência 60 Hz",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Wesco",
+   "preco": 200.36,
+   "precoAntigo": 210.91,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_904539-MLA99494577214_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15462249"
+  },
+  {
+   "id": "mlb28070523",
+   "nome": "Bomba Dágua Submersa Fenix 650 340w 1600 Litros Hora",
+   "categoria": "Bombas d'Água",
+   "marca": "Fênix",
+   "preco": 322.9,
+   "precoAntigo": 339.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_817226-MLA95531359430_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB28070523"
+  },
+  {
+   "id": "mlb20224328",
+   "nome": "Motobomba Autoaspirante Claw 1CV 750W 220V Monofásica Azul",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 709.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_893844-MLA96144243193_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB20224328"
+  },
+  {
+   "id": "mlb16080036",
+   "nome": "Kit Micro Retífica BLACK+DECKER RT18KA 35.000 RPM Com 113 Acessórios 180W",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 351.49,
+   "precoAntigo": 369.99,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_863842-MLA99476082588_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB16080036"
+  },
+  {
+   "id": "mlb23298915",
+   "nome": "Motor Estacionário Kawashima GE650B de 6.5 hp e 4 Tempos a Gasolina",
+   "categoria": "Motores e Motosserras",
+   "marca": "Kawashima",
+   "preco": 759.9,
+   "precoAntigo": 799.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_701315-MLA99993402563_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB23298915"
+  },
+  {
+   "id": "mlb16246574",
+   "nome": "Serra Circular Profissional Stanley 184mm Corte 90° 6,5cm SC16-BR",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Stanley",
+   "preco": 649.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_867486-MLA99466071388_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB16246574"
+  },
+  {
+   "id": "mlb57787985",
+   "nome": "Serra Marmore 1.350w 125mm Spt116 Cortador Elétrico Stanley",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Stanley",
+   "preco": 332.4,
+   "precoAntigo": 349.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_789276-MLA92924966848_092025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB57787985"
+  },
+  {
+   "id": "mlb36255470",
+   "nome": "Compressor De Ar Portátil Schulz Pratiko Csl6.6/20 Cor Preto Fase Elétrica Monofásica Frequência 60 Hz",
+   "categoria": "Compressores",
+   "marca": "Schulz",
+   "preco": 1258.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_749566-MLA95354849867_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB36255470"
+  },
+  {
+   "id": "mlb31005292",
+   "nome": "Motobomba Autoaspirante Claw 1CV 750W Monofásica Azul 110V/127V",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 684.95,
+   "precoAntigo": 721.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_704036-MLA97470949591_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB31005292"
+  },
+  {
+   "id": "mlb20698522",
+   "nome": "Bomba D'água Autoaspirante 0.5CV Claw Monofásica 110V 127V Azul",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 539.6,
+   "precoAntigo": 568.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_652464-MLA95399234482_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB20698522"
+  },
+  {
+   "id": "mlb42481201",
+   "nome": "Furadeira De Bancada Schulz 1/2'' 13mm 5 Vel. Pratika Fsb13p Cor Preto",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Schulz",
+   "preco": 854.9,
+   "precoAntigo": 899.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_782626-MLA99503976806_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB42481201"
+  },
+  {
+   "id": "mlb36522003",
+   "nome": "Bomba Submersa De Poço Rayma Sapeca 280w",
+   "categoria": "Bombas d'Água",
+   "marca": "Rayma",
+   "preco": 341.05,
+   "precoAntigo": 377.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_793337-MLA99480248394_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB36522003"
+  },
+  {
+   "id": "mlb19866669",
+   "nome": "Moto Bomba Para Piscina Xkp305 - 1/4cv Lepono",
+   "categoria": "Bombas para Piscina",
+   "marca": "Lepono",
+   "preco": 551.94,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_921568-MLA96149301401_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19866669"
+  },
+  {
+   "id": "mlb15383179",
+   "nome": "Serra Circular 7-1/4\" Dewalt Modelo DWE560 Disco de 24 Dentes Potência de 1400W",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Dewalt",
+   "preco": 585.99,
+   "precoAntigo": 709.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_712907-MLA119281868799_102026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15383179"
+  },
+  {
+   "id": "mlb21089882",
+   "nome": "Pistola de pintura HVLP tipo gravidade P827 Intech Machine",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Intech Machine",
+   "preco": 145.25,
+   "precoAntigo": 152.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_856375-MLA99897257935_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB21089882"
+  },
+  {
+   "id": "mlb68749833",
+   "nome": "Bomba Água Periférica Home 1/2cv Cp60h Poço Cisterna Claw Cor Azul-aço Fase Elétrica Monofásica Frequência 60 Hz",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 159.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_912457-MLA110081683266_042026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB68749833"
+  },
+  {
+   "id": "mlb22912721",
+   "nome": "Bomba Periférica LEO Auto Aspirante APSm37 0.5 HP Ferro Fundido",
+   "categoria": "Bombas d'Água",
+   "marca": "Leo",
+   "preco": 513.14,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_929138-MLA99992363113_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB22912721"
+  },
+  {
+   "id": "mlb22338067",
+   "nome": "Motobomba De Piscina 1/2cv Monofásica Xkp554a Lepono",
+   "categoria": "Bombas para Piscina",
+   "marca": "Lepono",
+   "preco": 789.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_827923-MLA96129982833_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB22338067"
+  },
+  {
+   "id": "mlb23659431",
+   "nome": "Caixa de Ferramentas Profunda e com Rodas Dewalt Modelo DWST17820 Capacidade de 28L",
+   "categoria": "Organização de Ferramentas",
+   "marca": "Dewalt",
+   "preco": 699.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_740490-MLA99952100627_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB23659431"
+  },
+  {
+   "id": "mlb24001180",
+   "nome": "Bomba D'água Centrífuga Claw WMCM158H 1CV Azul Elevação 28m Ferro Fundido",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 592.8,
+   "precoAntigo": 624.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_926733-MLA99506099226_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB24001180"
+  },
+  {
+   "id": "mlb15752572",
+   "nome": "Furadeira Impacto Schulz 1/2 Pol 500w Reversão Plus Fi500p Mandril 13 mm (1/2\")",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Schulz",
+   "preco": 134.64,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_797200-MLA99992384503_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15752572"
+  },
+  {
+   "id": "mlb18561364",
+   "nome": "Lixadeira profissional orbital Black+Decker BEW220 preta e laranja 150W",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 320.59,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_822817-MLA99931610899_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB18561364"
+  },
+  {
+   "id": "mlb21010187",
+   "nome": "Bomba Dágua Autoaspirante Claw Wma200h 2cv Até 55 Metros Cor Azul",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 1399.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_773830-MLA100018738347_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB21010187"
+  },
+  {
+   "id": "mlb47146181",
+   "nome": "Parafusadeira e Furadeira de Impacto 13mm 20V DEWALT DCD7781D2 Com 2 Baterias, Carregador e Maleta",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Dewalt",
+   "preco": 1050.0,
+   "precoAntigo": 1105.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_860756-MLA99451844492_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB47146181"
+  },
+  {
+   "id": "mlb32458708",
+   "nome": "Bomba D'agua 300w Fenix 150 Até 50 Metros De Altura",
+   "categoria": "Bombas d'Água",
+   "marca": "Fênix",
+   "preco": 284.9,
+   "precoAntigo": 299.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_712640-MLA117271629882_102026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB32458708"
+  },
+  {
+   "id": "mlb23998436",
+   "nome": "Soprador Térmico Black Decker Hg2000k 1800w 5 Peças E Maleta Cor Laranja",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 343.7,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_820709-MLA99985739873_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB23998436"
+  },
+  {
+   "id": "mlb19662732",
+   "nome": "Bomba centrífuga autoaspirante monofásica Dancor Pratika AP-3C 0.507hp cor preto 60Hz",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 987.9,
+   "precoAntigo": 1039.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_748959-MLA99943515949_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19662732"
+  },
+  {
+   "id": "mlb22332272",
+   "nome": "Esmerilhadeira Angular Wesco 720W 12000RPM Disco 115mm WS4751",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Wesco",
+   "preco": 284.9,
+   "precoAntigo": 299.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_810596-MLA100001207791_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB22332272"
+  },
+  {
+   "id": "mlb9365965",
+   "nome": "Furadeira Impacto 1/2 600w Stanley #n",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Stanley",
+   "preco": 270.65,
+   "precoAntigo": 299.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_939659-MLA99366548090_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB9365965"
+  },
+  {
+   "id": "mlb15289506",
+   "nome": "Lixadeira profissional orbital DeWalt DWE6411 amarela 50Hz/60Hz 230W",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Dewalt",
+   "preco": 493.9,
+   "precoAntigo": 519.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_927490-MLA99928204749_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15289506"
+  },
+  {
+   "id": "mlb69351290",
+   "nome": "Bomba D'água Tramontina Bta10i 1hp 3700l/h 127v/220v",
+   "categoria": "Bombas d'Água",
+   "marca": "Tramontina",
+   "preco": 617.4,
+   "precoAntigo": 649.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_788329-MLA110469781196_052026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB69351290"
+  },
+  {
+   "id": "mlb23127132",
+   "nome": "Bomba centrífuga autoaspirante monofásica Claw WMAI75H 1.015hp cor azul 60Hz",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 816.85,
+   "precoAntigo": 859.85,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_821866-MLA95211993516_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB23127132"
+  },
+  {
+   "id": "mlb19694411",
+   "nome": "Serra Tico Tico Dewalt Modelo DWE300 Ferramenta Elétrica Potência de 650W",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Dewalt",
+   "preco": 569.9,
+   "precoAntigo": 599.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_985995-MLA99989651907_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19694411"
+  },
+  {
+   "id": "mlb19755195",
+   "nome": "Serra Tico-tico Stanley 600W 3000RPM SJ60K-BR 127V",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Stanley",
+   "preco": 474.9,
+   "precoAntigo": 499.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_822974-MLA117477077493_092026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19755195"
+  },
+  {
+   "id": "mlb24056813",
+   "nome": "Dancor CP-4R bomba centrifuga monofásica cor preto",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 721.14,
+   "precoAntigo": 759.1,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_964879-MLA107453373027_022026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB24056813"
+  },
+  {
+   "id": "mlb24458155",
+   "nome": "Motobomba Claw Autoaspirante 1.5CV 220V Monofásica 40m Vazão Máxima Ferro Fundido",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 799.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_658077-MLA96111331003_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB24458155"
+  },
+  {
+   "id": "mlb24375789",
+   "nome": "Arandela Slim LED G9 Trio Light Quadrada Parede Teto 2 Frisos Preta",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Trio Light",
+   "preco": 27.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_746428-MLA99584636446_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB24375789"
+  },
+  {
+   "id": "mlb26120288",
+   "nome": "Bomba d'água autoaspirante Dancor AP-2R 1/2CV monofásica",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 854.9,
+   "precoAntigo": 899.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_869755-MLA99990878199_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB26120288"
+  },
+  {
+   "id": "mlb20764039",
+   "nome": "Bomba Centrífuga Autoaspirante Dancor EP-2 2CV Ferro Fundido",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 2635.0,
+   "precoAntigo": 2774.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_889888-MLA99507263140_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB20764039"
+  },
+  {
+   "id": "mlb63977776",
+   "nome": "Compressor Ar Portatil 100w 12vbiv 110/220v Air Plus Digital Cor Preto Fase Elétrica Bifásica",
+   "categoria": "Compressores",
+   "marca": "Air Plus",
+   "preco": 302.0,
+   "precoAntigo": 317.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_756673-MLA104085521107_012026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB63977776"
+  },
+  {
+   "id": "mlb27877746",
+   "nome": "Bomba Fênix 150 300w",
+   "categoria": "Bombas d'Água",
+   "marca": "Fênix",
+   "preco": 284.9,
+   "precoAntigo": 299.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_888353-MLA118863151941_102026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB27877746"
+  },
+  {
+   "id": "mlb15752573",
+   "nome": "Furadeira de Impacto 1/2 500W Vermelho",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "",
+   "preco": 133.0,
+   "precoAntigo": 140.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_751142-MLA99470632612_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15752573"
+  },
+  {
+   "id": "mlb19728539",
+   "nome": "Esmerilhadeira Angular Disco 7pol 180mm Stanley Sl227",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Stanley",
+   "preco": 794.36,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_625782-MLA100079108875_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19728539"
+  },
+  {
+   "id": "mlb15794647",
+   "nome": "Compressor de Ar Portátil Schulz Hobby Jet Fácil 0.3hp Amarelo",
+   "categoria": "Compressores",
+   "marca": "Schulz",
+   "preco": 949.9,
+   "precoAntigo": 999.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_948516-MLA99394383520_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15794647"
+  },
+  {
+   "id": "mlb28202148",
+   "nome": "Kit 10 Lâmpadas Led Maxxy Bulbo 50W Fria E27 Branco 6500K 4000lm",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Maxxy",
+   "preco": 209.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_700368-MLA99564575120_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB28202148"
+  },
+  {
+   "id": "mlb24542222",
+   "nome": "Bomba Periférica Claw CP60H 0.5HP Monofásica Ferro Fundido Azul",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 159.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_757679-MLA95975788194_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB24542222"
+  },
+  {
+   "id": "mlb53445642",
+   "nome": "Arandela Slim 2 Frisos Luz Branco Quente 3000k",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "",
+   "preco": 27.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_724638-MLA95525846223_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB53445642"
+  },
+  {
+   "id": "mlb40257991",
+   "nome": "Ar-condicionado Portátil Rheem 12000btus Frio",
+   "categoria": "Climatização",
+   "marca": "Rheem",
+   "preco": 2840.0,
+   "precoAntigo": 2990.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_665407-MLA99445985882_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB40257991"
+  },
+  {
+   "id": "mlb34918806",
+   "nome": "Chave De Impacto 18v Brushless 1/2 350n Bat 4ah Wesco Ws2407",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Wesco",
+   "preco": 975.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_848047-MLA108574087771_032026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB34918806"
+  },
+  {
+   "id": "mlb22834049",
+   "nome": "Lixadeira Roto Orbital 127mm BLACK+DECKER BDERO100 200W",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 307.7,
+   "precoAntigo": 323.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_651074-MLA99963132389_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB22834049"
+  },
+  {
+   "id": "mlb25685417",
+   "nome": "Serra Meia Esquadria Wesco 1800W 250mm 40 Dentes Modelo WS7172",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Wesco",
+   "preco": 1189.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_800056-MLA99464007402_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB25685417"
+  },
+  {
+   "id": "mlb24519314",
+   "nome": "Arandela Quadrada Trio Light Branca LED Halopin G9 Interna Externa",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Trio Light",
+   "preco": 29.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_676200-MLA96733986645_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB24519314"
+  },
+  {
+   "id": "mlb21842455",
+   "nome": "Kit 10 Maxxy LED 6500K 9 W Branco-frio",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Maxxy",
+   "preco": 32.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_683245-MLA96875392907_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB21842455"
+  },
+  {
+   "id": "mlb27472789",
+   "nome": "Furadeira De Impacto 13mm 800W WS3179U Wesco",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Wesco",
+   "preco": 290.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_688986-MLA117476414551_092026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB27472789"
+  },
+  {
+   "id": "mlb28399374",
+   "nome": "Moto Esmeril Bancada 300W Schulz Qualiforte Ms6",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Schulz",
+   "preco": 316.76,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_980725-MLA99514918764_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB28399374"
+  },
+  {
+   "id": "mlb25893391",
+   "nome": "Lavadora Elétrica De Alta Pressão Tepw2200i Toyama",
+   "categoria": "Aspiradores e Lavadoras",
+   "marca": "Toyama",
+   "preco": 987.9,
+   "precoAntigo": 1039.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_735997-MLA100071024437_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB25893391"
+  },
+  {
+   "id": "mlb64912100",
+   "nome": "Aspirador Sólidos/líquidos 1400w 20l 220v Monofásico Schulz Cor Preto",
+   "categoria": "Aspiradores e Lavadoras",
+   "marca": "Schulz",
+   "preco": 560.4,
+   "precoAntigo": 589.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_735083-MLA105702119445_012026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB64912100"
+  },
+  {
+   "id": "mlb18615085",
+   "nome": "Aspirador de Pó e Líquidos Schulz 2000W 70L Industrial",
+   "categoria": "Aspiradores e Lavadoras",
+   "marca": "Schulz",
+   "preco": 2702.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_888480-MLA99432634960_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB18615085"
+  },
+  {
+   "id": "mlb18554356",
+   "nome": "Aspirador Hidropó 1200w 50 Litros - Schulz Cor Preto",
+   "categoria": "Aspiradores e Lavadoras",
+   "marca": "Schulz",
+   "preco": 1629.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_835912-MLA99504091278_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB18554356"
+  },
+  {
+   "id": "mlb18615084",
+   "nome": "Aspirador Hidropó Schulz 2000W 70 Litros Industrial com Rodas",
+   "categoria": "Aspiradores e Lavadoras",
+   "marca": "Schulz",
+   "preco": 2593.0,
+   "precoAntigo": 2729.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_646267-MLA96124105063_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB18615084"
+  },
+  {
+   "id": "mlb18554355",
+   "nome": "Aspirador é industrial Tambor Schulz Hidropó 1200W 50L prateado e preto 50Hz/60Hz",
+   "categoria": "Aspiradores e Lavadoras",
+   "marca": "Schulz",
+   "preco": 1629.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_927413-MLA100025374771_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB18554355"
+  },
+  {
+   "id": "mlb24115393",
+   "nome": "Pw Eletrônica Protege Contra Raio e Surtos Corrente doméstica Geladeira e Freezer",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Pw Eletrônica",
+   "preco": 50.25,
+   "precoAntigo": 52.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_713094-MLA116371836787_082026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB24115393"
+  },
+  {
+   "id": "mlb24080497",
+   "nome": "Tramontina Aria Kit 20 Tomadas 5 Interruptor Cor Branco",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Tramontina",
+   "preco": 152.15,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_723672-MLA96155491075_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB24080497"
+  },
+  {
+   "id": "mlb68468007",
+   "nome": "Aparador De Grama Bipartido 1000w Master 1000 Plus Trapp Verde",
+   "categoria": "Jardim",
+   "marca": "Trapp",
+   "preco": 282.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_998290-MLA109896454998_042026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB68468007"
+  },
+  {
+   "id": "mlb60112954",
+   "nome": "Climatizador Portátil Venti-Delta Brisa 35L 100W Branco 3 Velocidades",
+   "categoria": "Climatização",
+   "marca": "Venti-Delta",
+   "preco": 1048.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_901311-MLA99908335129_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB60112954"
+  },
+  {
+   "id": "mlb15567090",
+   "nome": "Bomba para piscina Dancor PF-17 1cv - monofásica 17.3m³/h",
+   "categoria": "Bombas para Piscina",
+   "marca": "Dancor",
+   "preco": 1047.0,
+   "precoAntigo": 1102.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_867106-MLA99500341656_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15567090"
+  },
+  {
+   "id": "mlb15567087",
+   "nome": "Bomba para piscina Dancor PF-17 1/3cv - monofásica 11.4m³/h",
+   "categoria": "Bombas para Piscina",
+   "marca": "Dancor",
+   "preco": 925.5,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_795318-MLU72639565885_112023-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB15567087"
+  },
+  {
+   "id": "mlb23437794",
+   "nome": "Blukit Reparo 2550 kit para válvula descarga hydra max clean pro",
+   "categoria": "Hidráulica",
+   "marca": "Blukit",
+   "preco": 52.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_808016-MLA99992351737_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB23437794"
+  },
+  {
+   "id": "mlb54198518",
+   "nome": "Climatizador Portátil Venti Delta Brisa 20L 80W Branco",
+   "categoria": "Climatização",
+   "marca": "Venti-Delta",
+   "preco": 812.08,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_839554-MLA102611604940_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB54198518"
+  },
+  {
+   "id": "mlb19776347",
+   "nome": "Bomba Autoaspirante Claw WMPA37H 1/2cv Ferro Fundido",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 326.6,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_829991-MLA95696928878_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19776347"
+  },
+  {
+   "id": "mlb28335931",
+   "nome": "Bomba Submersa Sapeca - Rayma",
+   "categoria": "Bombas d'Água",
+   "marca": "Rayma",
+   "preco": 286.36,
+   "precoAntigo": 301.44,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_669368-MLA99514870748_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB28335931"
+  },
+  {
+   "id": "mlb19662734",
+   "nome": "Bomba Autoaspirante Monofásica Dancor AP-3C 1CV 3500 l/h",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 1189.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_936871-MLA99992542335_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB19662734"
+  },
+  {
+   "id": "mlb23020425",
+   "nome": "Bomba Centrífuga Dancor Ultra DC-4 1/2CV Monofásica Ferro Fundido",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 565.25,
+   "precoAntigo": 595.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_971533-MLA115491687934_082026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB23020425"
+  },
+  {
+   "id": "mlb45050233",
+   "nome": "Bomba Autoaspirante Mono Dancor Pratika Ap-3c 2cv",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 1975.0,
+   "precoAntigo": 2079.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_776974-MLA116210322984_092026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB45050233"
+  },
+  {
+   "id": "mlb51904543",
+   "nome": "Bomba Autoaspirante Modelo AP-2R 1/2cv 127-220 Volts DANCOR",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 849.2,
+   "precoAntigo": 893.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_900739-MLA96133327967_102025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB51904543"
+  },
+  {
+   "id": "mlb25443122",
+   "nome": "Martelete Perfurador Rompedor Wesco 900W WS3228KU SDS Plus",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Wesco",
+   "preco": 715.2,
+   "precoAntigo": 752.85,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_923427-MLA99471254182_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB25443122"
+  },
+  {
+   "id": "mlb14008685",
+   "nome": "Bomba Autoaspirante Dancor Ultra DA-2 1/2 CV Monofásica 60Hz Laranja",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 586.4,
+   "precoAntigo": 617.27,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_620849-MLA99502131932_112025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB14008685"
+  },
+  {
+   "id": "mlb22653741",
+   "nome": "Serra Mármore 4.3/8 1450w Ws3905u Wesco E Refrigeração",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Wesco",
+   "preco": 393.99,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_636959-MLA117476703733_092026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB22653741"
+  },
+  {
+   "id": "mlb41085642",
+   "nome": "Ar-condicionado Portátil Rheem Quente e Frio 12000 Btu Branco",
+   "categoria": "Climatização",
+   "marca": "Rheem",
+   "preco": 3039.0,
+   "precoAntigo": 3199.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_867243-MLA99525075268_122025-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB41085642"
+  },
+  {
+   "id": "mlb67565383",
+   "nome": "Motobomba Autoescorvante Kawashima Gwn 3x3 Gasolina 60 M³/h",
+   "categoria": "Bombas d'Água",
+   "marca": "Kawashima",
+   "preco": 1073.0,
+   "precoAntigo": 1129.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_606365-MLA109166616358_042026-E.webp"
+   ],
+   "linkMercadoLivre": "https://www.mercadolivre.com.br/p/MLB67565383"
+  },
+  {
+   "id": "mlb-5445754757",
+   "nome": "Bomba Centrifuga Dancor Cp-4r 1/2cv Preto 127v 60 Hz",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 721.14,
+   "precoAntigo": 759.1,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_902634-MLB91694885705_092025-E-bomba-centrifuga-dancor-cp-4r-12cv-preto-127v-60-hz.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445754757"
+  },
+  {
+   "id": "mlb-5445731789",
+   "nome": "Dancor Pratika Cp-4r Bomba Centrífuga Monofásica 0.25cv",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 714.66,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_816548-MLB91914400198_092025-E-dancor-pratika-cp-4r-bomba-centrifuga-monofasica-025cv-cor.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445731789"
+  },
+  {
+   "id": "mlb-7867916100",
+   "nome": "Lavadora Elétrica De Alta Pressão Tepw2200 Toyama 127v",
+   "categoria": "Aspiradores e Lavadoras",
+   "marca": "Toyama",
+   "preco": 664.9,
+   "precoAntigo": 699.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_897388-MLA96174855041_102025-E-lavadora-eletrica-de-alta-presso-tepw2200-toyama-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867916100"
+  },
+  {
+   "id": "mlb-5445755147",
+   "nome": "Bomba Ejetora 1cv 34 Metros 127v/220v 60 Hz Dancor Ep1-0",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 2046.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_713352-MLB117117209006_102026-E-bomba-ejetora-1cv-34-metros-127v220v-60-hz-dancor-ep1-0.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445755147"
+  },
+  {
+   "id": "mlb-7867583994",
+   "nome": "Bomba Centrífuga Dancor Cp-4r 0.5cv Puxa 6mts 127v/220v",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 731.02,
+   "precoAntigo": 769.5,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_829807-MLB120416782127_102026-E-bomba-centrifuga-dancor-cp-4r-05cv-puxa-6mts-127v220v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867583994"
+  },
+  {
+   "id": "mlb-5445729367",
+   "nome": "Motobomba A Gasolina Toyama Twp80sx Auto Escorvante - 3x3",
+   "categoria": "Bombas d'Água",
+   "marca": "Toyama",
+   "preco": 1493.0,
+   "precoAntigo": 1571.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_738196-MLB49814482998_042022-E-motobomba-a-gasolina-toyama-twp80sx-auto-escorvante-3x3.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445729367"
+  },
+  {
+   "id": "mlb-5445687859",
+   "nome": "Bomba Claw Auto Aspirante Wmpa37h - 1/2cv 127v",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 322.44,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_939235-MLB51794803379_102022-E-bomba-claw-auto-aspirante-wmpa37h-12cv-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445687859"
+  },
+  {
+   "id": "mlb-5445759445",
+   "nome": "Bomba Ejetora Para Poço Dancor Ep 2-1 1,0 Cv Cor Preto Fase",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 2001.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_962599-MLB108494141833_032026-E-bomba-ejetora-para-poco-dancor-ep-2-1-10-cv-cor-preto-fase.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445759445"
+  },
+  {
+   "id": "mlb-5445817907",
+   "nome": "Disjuntor Unipolar Monopolar Din Tramontina 10a A 63a 50a",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Tramontina",
+   "preco": 16.7,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_667896-MLB94634661753_102025-E-disjuntor-unipolar-monopolar-din-tramontina-10a-a-63a-50a.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445817907"
+  },
+  {
+   "id": "mlb-7867920404",
+   "nome": "Quadro Distrib 6/8 Disj Pta Br S/bar Tigre",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Tigre",
+   "preco": 107.83,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_704125-MLA93502343693_092025-E-quadro-distrib-68-disj-pta-br-sbar-tigre.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867920404"
+  },
+  {
+   "id": "mlb-5445733579",
+   "nome": "Motobomba De Piscina 1/2cv Monofásica Xkp554a Lepono 110v",
+   "categoria": "Bombas para Piscina",
+   "marca": "Lepono",
+   "preco": 789.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_986591-MLB91970437518_092025-E-motobomba-de-piscina-12cv-monofasica-xkp554a-lepono-110v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445733579"
+  },
+  {
+   "id": "mlb-5445738245",
+   "nome": "Resistencia Chuveiro Loren Shower Ultra 220v 7500 Lorenzetti",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Lorenzetti",
+   "preco": 61.65,
+   "precoAntigo": 64.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_898251-MLB116546053805_082026-E-resistencia-chuveiro-loren-shower-ultra-220v-7500-lorenzetti.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445738245"
+  },
+  {
+   "id": "mlb-5445744219",
+   "nome": "Kit 15 Conjunto Tomada Simples Comp 10a Aria 4x2 Tramontina",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Tramontina",
+   "preco": 106.75,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_721882-MLU74390546855_022024-E-kit-15-conjunto-tomada-simples-comp-10a-aria-4x2-tramontina.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445744219"
+  },
+  {
+   "id": "mlb-5445817969",
+   "nome": "Disjuntor Unipolar Monopolar Din Tramontina 10a A 63a 16a",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Tramontina",
+   "preco": 16.7,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_750198-MLB94205972210_102025-E-disjuntor-unipolar-monopolar-din-tramontina-10a-a-63a-16a.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445817969"
+  },
+  {
+   "id": "mlb-7867978380",
+   "nome": "Disjuntor Unipolar Monopolar Din Tramontina 10a A 63a 32a",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Tramontina",
+   "preco": 16.7,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_833335-MLB94207257864_102025-E-disjuntor-unipolar-monopolar-din-tramontina-10a-a-63a-32a.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867978380"
+  },
+  {
+   "id": "mlb-7867978450",
+   "nome": "Disjuntor Unipolar Monopolar Din Tramontina 10a A 63a 25a",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Tramontina",
+   "preco": 16.7,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_621749-MLB94206261098_102025-E-disjuntor-unipolar-monopolar-din-tramontina-10a-a-63a-25a.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867978450"
+  },
+  {
+   "id": "mlb-7867978344",
+   "nome": "Disjuntor Unipolar Monopolar Din Tramontina 10a A 63a 63a",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Tramontina",
+   "preco": 16.7,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_794675-MLB79026613063_092024-E-disjuntor-unipolar-monopolar-din-tramontina-10a-a-63a-63a.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867978344"
+  },
+  {
+   "id": "mlb-5445732893",
+   "nome": "Motor A Gasolina 6.5hp 196cc 6.5hp C/ Sensor De Óleo Toyama",
+   "categoria": "Motores e Motosserras",
+   "marca": "Toyama",
+   "preco": 907.63,
+   "precoAntigo": 955.4,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_804222-MLU74827856773_022024-E-motor-a-gasolina-65hp-196cc-65hp-c-sensor-de-oleo-toyama.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445732893"
+  },
+  {
+   "id": "mlb-7867918890",
+   "nome": "Acabamento Universal Ascot 1/2 3/4 Fabrimar Deca Docol",
+   "categoria": "Hidráulica",
+   "marca": "Fabrimar",
+   "preco": 74.95,
+   "precoAntigo": 78.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_668076-MLB92371864933_092025-E-acabamento-universal-ascot-12-34-fabrimar-deca-docol.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867918890"
+  },
+  {
+   "id": "mlb-5445736111",
+   "nome": "Motor Estacionário Kawashima Ge650b 6,5 Hp Gasolina",
+   "categoria": "Motores e Motosserras",
+   "marca": "Kawashima",
+   "preco": 759.9,
+   "precoAntigo": 799.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_811877-MLB111352886036_052026-E-motor-estacionario-kawashima-ge650b-65-hp-gasolina.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445736111"
+  },
+  {
+   "id": "mlb-7867919222",
+   "nome": "Blukit Reparo 2550 Kit Para Válvula Descarga Hydra Max Clean",
+   "categoria": "Hidráulica",
+   "marca": "Blukit",
+   "preco": 57.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_638329-MLB90061041938_082025-E-blukit-reparo-2550-kit-para-valvula-descarga-hydra-max-clean.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867919222"
+  },
+  {
+   "id": "mlb-5445734147",
+   "nome": "Acabamento Registro Chuveiro Metal 1/2 E 3/4 Petra Fabrimar",
+   "categoria": "Hidráulica",
+   "marca": "Fabrimar",
+   "preco": 66.4,
+   "precoAntigo": 69.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_652574-MLA79685429805_102024-E-acabamento-registro-chuveiro-metal-12-e-34-petra-fabrimar.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445734147"
+  },
+  {
+   "id": "mlb-7867921028",
+   "nome": "Kit 10 Lâmpadas Led Bulbo 20w Fria - Frio (6500k) 127/220v",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "",
+   "preco": 75.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_760694-MLB118739691642_102026-E-kit-10-lmpadas-led-bulbo-20w-fria-frio-6500k-127220v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867921028"
+  },
+  {
+   "id": "mlb-5445734055",
+   "nome": "Arandela Slim 2 Frisos Luminária Moderna Interna Ou Externa",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "",
+   "preco": 27.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_976955-MLU77975642409_072024-E-arandela-slim-2-frisos-luminaria-moderna-interna-ou-externa.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445734055"
+  },
+  {
+   "id": "mlb-5445731991",
+   "nome": "Tramontina Aria Kit 20 Tomadas 5 Interruptor Cor Branco",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "Tramontina",
+   "preco": 152.15,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_670062-MLB92329658347_092025-E-tramontina-aria-kit-20-tomadas-5-interruptor-cor-branco.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445731991"
+  },
+  {
+   "id": "mlb-7867849178",
+   "nome": "Moto Esmeril Bancada 1/2hp 6'' Schulz Rebolo Fino",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Schulz",
+   "preco": 316.76,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_889353-MLB92325202899_092025-E-moto-esmeril-bancada-12hp-6-schulz-rebolo-fino-.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867849178"
+  },
+  {
+   "id": "mlb-5445751937",
+   "nome": "Lixadeira Profissional Orbital Dewalt Dwe6411 Amarela 127v",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Dewalt",
+   "preco": 469.2,
+   "precoAntigo": 519.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_823730-MLB118739693532_102026-E-lixadeira-profissional-orbital-dewalt-dwe6411-amarela-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445751937"
+  },
+  {
+   "id": "mlb-7867874980",
+   "nome": "Bomba Claw Auto Aspirante Wmpa37h - 1/2cv (puxa 8m-joga",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 334.55,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_733171-MLB91637481359_092025-E-bomba-claw-auto-aspirante-wmpa37h-12cv-puxa-8m-joga.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867874980"
+  },
+  {
+   "id": "mlb-5445737529",
+   "nome": "Bomba Perif. Claw Cp60h Azul 1/2cv Mono 60hz 127v Azul 127v",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 159.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_843505-MLA114336092783_072026-E-bomba-perif-claw-cp60h-azul-12cv-mono-60hz-127v-azul-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445737529"
+  },
+  {
+   "id": "mlb-5445760487",
+   "nome": "Bomba D'água Autoaspirante Inox Bta05i Tramontina 1/2cv Biv",
+   "categoria": "Bombas d'Água",
+   "marca": "Tramontina",
+   "preco": 549.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_794365-MLB110297353758_052026-E-bomba-dagua-autoaspirante-inox-bta05i-tramontina-12cv-biv.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445760487"
+  },
+  {
+   "id": "mlb-5445742019",
+   "nome": "Bomba Dágua Autoaspirante 1/2cv Claw Wmpa37h Até 25 Metros",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 326.6,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_684937-MLB92383475327_092025-E-bomba-dagua-autoaspirante-12cv-claw-wmpa37h-ate-25-metros.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445742019"
+  },
+  {
+   "id": "mlb-5445733617",
+   "nome": "Bomba De Piscina Pré Filtro 1/3 Cv Monofásico Lepono Xkp",
+   "categoria": "Bombas para Piscina",
+   "marca": "Lepono",
+   "preco": 552.81,
+   "precoAntigo": 581.91,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_674511-MLB91293023116_092025-E-bomba-de-piscina-pre-filtro-13-cv-monofasico-lepono-xkp.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445733617"
+  },
+  {
+   "id": "mlb-7867918962",
+   "nome": "Acabamento Para Registro Pressão Gaveta Tigre Gyro",
+   "categoria": "Hidráulica",
+   "marca": "Tigre",
+   "preco": 56.9,
+   "precoAntigo": 59.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_781270-MLB91977325328_092025-E-acabamento-para-registro-presso-gaveta-tigre-gyro.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867918962"
+  },
+  {
+   "id": "mlb-7867915418",
+   "nome": "Motobomba Dágua Joga Até 70 Metros Dancor Autoaspirante 2cv",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 2099.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_926261-MLB92381614993_092025-E-motobomba-dagua-joga-ate-70-metros-dancor-autoaspirante-2cv.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867915418"
+  },
+  {
+   "id": "mlb-7867887206",
+   "nome": "Bomba Dágua Centrífuga 1cv Wmcm158h Claw Joga Até 28 Mt 10v",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 592.8,
+   "precoAntigo": 624.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_750326-MLB120000703857_102026-E-bomba-dagua-centrifuga-1cv-wmcm158h-claw-joga-ate-28-mt-10v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867887206"
+  },
+  {
+   "id": "mlb-5445745869",
+   "nome": "Motobomba Para Piscina 1/3 Cv 220v Monofásica Xkp405 Lepono",
+   "categoria": "Bombas para Piscina",
+   "marca": "Lepono",
+   "preco": 562.51,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_794207-MLB92331858793_092025-E-motobomba-para-piscina-13-cv-220v-monofasica-xkp405-lepono.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445745869"
+  },
+  {
+   "id": "mlb-5445758105",
+   "nome": "Moto Bomba Para Piscina Xkp305 - 1/4cv 220v Lepono 220v",
+   "categoria": "Bombas para Piscina",
+   "marca": "Lepono",
+   "preco": 551.94,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_768775-MLB120419859359_102026-E-moto-bomba-para-piscina-xkp305-14cv-220v-lepono-220v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445758105"
+  },
+  {
+   "id": "mlb-5445741863",
+   "nome": "Bomba Dágua Autoaspirante Claw Wma150h Até 40mt 1,5cv 220v",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 799.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_742179-MLB91930957486_092025-E-bomba-dagua-autoaspirante-claw-wma150h-ate-40mt-15cv-220v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445741863"
+  },
+  {
+   "id": "mlb-7867585490",
+   "nome": "Bomba Schneider Asp 98 1/2cv 127v",
+   "categoria": "Bombas d'Água",
+   "marca": "Schneider",
+   "preco": 608.1,
+   "precoAntigo": 640.11,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_858846-MLB52183993247_102022-E-bomba-schneider-asp-98-12cv-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867585490"
+  },
+  {
+   "id": "mlb-7867915844",
+   "nome": "Bomba Centrífuga Centrífuga Monofásica Dancor Ultra Dc-4",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 595.15,
+   "precoAntigo": 626.48,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_952498-MLB91282687910_092025-E-bomba-centrifuga-centrifuga-monofasica-dancor-ultra-dc-4.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867915844"
+  },
+  {
+   "id": "mlb-7867888038",
+   "nome": "Motor De Popa Gasolina 8hp 4t Para Rabeta Te80jet-hs Toyama",
+   "categoria": "Motores e Motosserras",
+   "marca": "Toyama",
+   "preco": 1190.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_701236-MLB120419324631_102026-E-motor-de-popa-gasolina-8hp-4t-para-rabeta-te80jet-hs-toyama.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867888038"
+  },
+  {
+   "id": "mlb-5445759475",
+   "nome": "Ar-condicionado Portátil Rheem 12000btus Quente E Frio 220v",
+   "categoria": "Climatização",
+   "marca": "Rheem",
+   "preco": 3229.0,
+   "precoAntigo": 3399.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_867243-MLA99525075268_122025-E-ar-condicionado-portatil-rheem-12000btus-quente-e-frio-220v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445759475"
+  },
+  {
+   "id": "mlb-7867916172",
+   "nome": "Motosserra Á Gasolina Toyama Tcs46h Sabre 16 Polegadas 2,3hp",
+   "categoria": "Motores e Motosserras",
+   "marca": "Toyama",
+   "preco": 839.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_927187-MLU74340802481_022024-E-motosserra-a-gasolina-toyama-tcs46h-sabre-16-polegadas-23hp.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867916172"
+  },
+  {
+   "id": "mlb-5445755205",
+   "nome": "Queimador Infravermelho À Gás P/ Fangueira Jackwal 2250 Kcal",
+   "categoria": "Hidráulica",
+   "marca": "Jackwal",
+   "preco": 89.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_783732-MLB74229467560_022024-E-queimador-infravermelho-gas-p-fangueira-jackwal-2250-kcal.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445755205"
+  },
+  {
+   "id": "mlb-5445742907",
+   "nome": "Bomba Dágua Auto Aspirante Dancor Ap-2r 1/2cv Bivolt Preto",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 854.9,
+   "precoAntigo": 899.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_635094-MLB92374719479_092025-E-bomba-dagua-auto-aspirante-dancor-ap-2r-12cv-bivolt-preto.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445742907"
+  },
+  {
+   "id": "mlb-7867887596",
+   "nome": "Bomba Autoaspirante Claw Wmpa75h Bivolt Até 60 Metros 1cv",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 617.4,
+   "precoAntigo": 649.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_788561-MLB92376245147_092025-E-bomba-autoaspirante-claw-wmpa75h-bivolt-ate-60-metros-1cv.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867887596"
+  },
+  {
+   "id": "mlb-5445754733",
+   "nome": "Bomba Piscina Dancor Pf-17 0.5cv 127v/220v - 254v",
+   "categoria": "Bombas para Piscina",
+   "marca": "Dancor",
+   "preco": 908.86,
+   "precoAntigo": 956.7,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_782565-MLA48269989637_112021-E-bomba-piscina-dancor-pf-17-05cv-127v220v-254v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445754733"
+  },
+  {
+   "id": "mlb-7867918420",
+   "nome": "Bomba Piscina Lepono Xkp554a 1/2 Cv Até 50mil Litros",
+   "categoria": "Bombas para Piscina",
+   "marca": "Lepono",
+   "preco": 799.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_877349-MLB92374510375_092025-E-bomba-piscina-lepono-xkp554a-12-cv-ate-50mil-litros-de.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867918420"
+  },
+  {
+   "id": "mlb-7867888282",
+   "nome": "Bomba Dancor Auto Aspirante Dpa-40 - 1/2cv - Bivolt Azul",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 319.44,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_688552-MLB91957354868_092025-E-bomba-dancor-auto-aspirante-dpa-40-12cv-bivolt-azul.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867888282"
+  },
+  {
+   "id": "mlb-7867915626",
+   "nome": "Bomba Para Piscina Dancor Pf-17 1/3cv 127v/220v - 254v",
+   "categoria": "Bombas para Piscina",
+   "marca": "Dancor",
+   "preco": 967.1,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_782432-MLA48269989649_112021-E-bomba-para-piscina-dancor-pf-17-13cv-127v220v-254v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867915626"
+  },
+  {
+   "id": "mlb-7867874920",
+   "nome": "Bomba Água Submersível Esgoto Claw Limpa Fossa Tritura 220v",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 1479.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_637333-MLB91956848726_092025-E-bomba-agua-submersivel-esgoto-claw-limpa-fossa-tritura-220v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867874920"
+  },
+  {
+   "id": "mlb-5445729523",
+   "nome": "Bomba Dágua Autoaspirante 2cv Claw Wma200h Até 55mt 127v",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 1399.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_676736-MLB51948560565_102022-E-bomba-dagua-autoaspirante-2cv-claw-wma200h-ate-55mt-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445729523"
+  },
+  {
+   "id": "mlb-5445732359",
+   "nome": "Politriz Automotiva 5 B&d Wp600k 110v/220v 110v 127v",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 569.89,
+   "precoAntigo": 599.89,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_912178-MLB91923203728_092025-E-politriz-automotiva-5-bd-wp600k-110v220v-110v-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445732359"
+  },
+  {
+   "id": "mlb-5445758995",
+   "nome": "Bomba De Agua Centrifuga Dancor Ultra Dc-4 1/2cv Monofásica",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 565.25,
+   "precoAntigo": 595.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_621775-MLA93785425397_092025-E-bomba-de-agua-centrifuga-dancor-ultra-dc-4-12cv-monofasica.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445758995"
+  },
+  {
+   "id": "mlb-7867849232",
+   "nome": "Bomba De Água Auto-aspirante 1,0 Cv Claw Home Wma100h 127v",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 684.95,
+   "precoAntigo": 721.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_828453-MLB91705765583_092025-E-bomba-de-agua-auto-aspirante-10-cv-claw-home-wma100h-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867849232"
+  },
+  {
+   "id": "mlb-5445738057",
+   "nome": "Stanley Spt116 Serra Mármore Elétrico Am/preto 125mm 127v",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Stanley",
+   "preco": 315.78,
+   "precoAntigo": 349.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_789276-MLA92924966848_092025-E-stanley-spt116-serra-marmore-eletrico-ampreto-125mm-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445738057"
+  },
+  {
+   "id": "mlb-5445688533",
+   "nome": "Motor A Gasolina Estacionário 210cc 7,0hp Te70 Toyama",
+   "categoria": "Motores e Motosserras",
+   "marca": "Toyama",
+   "preco": 973.35,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_870183-MLB70693312360_072023-E-motor-a-gasolina-estacionario-210cc-70hp-te70-toyama.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445688533"
+  },
+  {
+   "id": "mlb-7867990496",
+   "nome": "Bomba De Água Auto-aspirante 1,0cv Claw Home Wma100h 220v",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 709.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_970295-MLB120420373455_102026-E-bomba-de-agua-auto-aspirante-10cv-claw-home-wma100h-220v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867990496"
+  },
+  {
+   "id": "mlb-5445742301",
+   "nome": "Bomba Centrífuga Schneider Bc-98 0.5cv 220v Bocal 3/4 Verde",
+   "categoria": "Bombas d'Água",
+   "marca": "Schneider",
+   "preco": 703.4,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_968246-MLB92392007727_092025-E-bomba-centrifuga-schneider-bc-98-05cv-220v-bocal-34-verde.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445742301"
+  },
+  {
+   "id": "mlb-5445734809",
+   "nome": "Climatizador Venti-delta Brisa 35l Branco 100w 3",
+   "categoria": "Climatização",
+   "marca": "Venti-Delta",
+   "preco": 1119.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_901311-MLA99908335129_112025-E-climatizador-venti-delta-brisa-35l-branco-100w-3.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445734809"
+  },
+  {
+   "id": "mlb-5445746619",
+   "nome": "Bomba Centrífuga Autoaspirante Monofásica Dancor Pratika",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 987.9,
+   "precoAntigo": 1039.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_748959-MLA99943515949_112025-E-bomba-centrifuga-autoaspirante-monofasica-dancor-pratika.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445746619"
+  },
+  {
+   "id": "mlb-7867888388",
+   "nome": "Bomba Centrífuga Dancor Cam W6 1cv 127v/220v Preto",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 1299.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_691445-MLB71925720740_092023-E-bomba-centrifuga-dancor-cam-w6-1cv-127v220v-preto.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867888388"
+  },
+  {
+   "id": "mlb-5445758559",
+   "nome": "Kit 10 Lâmpadas Bulbo 50w Fria E27 - Branco Frio 6500k 220v",
+   "categoria": "Elétrica e Iluminação",
+   "marca": "",
+   "preco": 209.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_626088-MLB91303960244_092025-E-kit-10-lmpadas-bulbo-50w-fria-e27-branco-frio-6500k-220v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445758559"
+  },
+  {
+   "id": "mlb-5445730057",
+   "nome": "Bomba Piscina Para Piscina Dancor Pf-17 0.75cv 127v/220v",
+   "categoria": "Bombas para Piscina",
+   "marca": "Dancor",
+   "preco": 1091.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_682071-MLA48270159382_112021-E-bomba-piscina-para-piscina-dancor-pf-17-075cv-127v220v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445730057"
+  },
+  {
+   "id": "mlb-7867916490",
+   "nome": "Compressor De Ar Elétrico Portátil Schulz Hobby Jet Fácil",
+   "categoria": "Compressores",
+   "marca": "Schulz",
+   "preco": 949.9,
+   "precoAntigo": 999.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_914873-MLB91276601070_092025-E-compressor-de-ar-eletrico-portatil-schulz-hobby-jet-facil.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867916490"
+  },
+  {
+   "id": "mlb-5445758059",
+   "nome": "Ventilador Mesa Premium 50cm 170w Venti-delta Preto 50 Cm",
+   "categoria": "Climatização",
+   "marca": "Venti-Delta",
+   "preco": 446.4,
+   "precoAntigo": 469.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_722159-MLB92333928625_092025-E-ventilador-mesa-premium-50cm-170w-venti-delta-preto-50-cm.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445758059"
+  },
+  {
+   "id": "mlb-5445757165",
+   "nome": "Furadeira De Impacto Dewalt Modelo Dwd502 Com Potência",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Dewalt",
+   "preco": 387.98,
+   "precoAntigo": 429.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_641110-MLB92383239315_092025-E-furadeira-de-impacto-dewalt-modelo-dwd502-com-potncia-de.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445757165"
+  },
+  {
+   "id": "mlb-5445734543",
+   "nome": "Bomba Autoaspirante Mono Dancor Pratika Ap-3c 2cv Preto",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 1975.0,
+   "precoAntigo": 2079.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_667388-MLB120420656757_102026-E-bomba-autoaspirante-mono-dancor-pratika-ap-3c-2cv-preto.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445734543"
+  },
+  {
+   "id": "mlb-7867921840",
+   "nome": "Soprador Térmico Black Decker Hg2000k 1800w 5 Peças",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 343.7,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_820709-MLA99985739873_112025-E-soprador-termico-black-decker-hg2000k-1800w-5-pecas-e.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867921840"
+  },
+  {
+   "id": "mlb-5445744613",
+   "nome": "Máquina De Solda Inversora Touch 145 140a Bivolt Boxer",
+   "categoria": "Solda",
+   "marca": "Boxer",
+   "preco": 574.1,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_871642-MLB118698954711_102026-E-maquina-de-solda-inversora-touch-145-140a-bivolt-boxer-cor.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445744613"
+  },
+  {
+   "id": "mlb-5445755999",
+   "nome": "Motosserra A Gasolina Toyama Tcs58h-18snb 18 Pol 54.4cc",
+   "categoria": "Motores e Motosserras",
+   "marca": "Toyama",
+   "preco": 899.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_987731-MLB92364129051_092025-E-motosserra-a-gasolina-toyama-tcs58h-18snb-18-pol-544cc-cor.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445755999"
+  },
+  {
+   "id": "mlb-5445737011",
+   "nome": "Kit Micro Retífica Black+decker Rt18ka 35.000 Rpm Com 113",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Black+Decker",
+   "preco": 351.49,
+   "precoAntigo": 369.99,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_870166-MLB120419359179_102026-E-kit-micro-retifica-blackdecker-rt18ka-35000-rpm-com-113.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445737011"
+  },
+  {
+   "id": "mlb-5445760547",
+   "nome": "Furadeira De Bancada Schulz Pratika Fsb13 127v Preto 1/3cv",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Schulz",
+   "preco": 854.9,
+   "precoAntigo": 899.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_782626-MLA99503976806_112025-E-furadeira-de-bancada-schulz-pratika-fsb13-127v-preto-13cv.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445760547"
+  },
+  {
+   "id": "mlb-5445687889",
+   "nome": "Bomba Periférica Intech Machine Bp500 0.5hp 127v Vmm",
+   "categoria": "Bombas d'Água",
+   "marca": "Intech Machine",
+   "preco": 150.38,
+   "precoAntigo": 158.3,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_751569-MLB91322513310_092025-E-bomba-periferica-intech-machine-bp500-05hp-127v-vmm.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445687889"
+  },
+  {
+   "id": "mlb-5445742413",
+   "nome": "Bomba Ejetora P/poço Dancor Ep2-0 2cv (puxa 42mts)",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 2539.0,
+   "precoAntigo": 2672.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_677412-MLB92330961969_092025-E-bomba-ejetora-ppoco-dancor-ep2-0-2cv-puxa-42mts.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445742413"
+  },
+  {
+   "id": "mlb-5445687929",
+   "nome": "Furadeira Martelete Paraf De 13mm Schulz Fi500p 500w 127v",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Schulz",
+   "preco": 133.0,
+   "precoAntigo": 140.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_967007-MLB91657747531_092025-E-furadeira-martelete-paraf-de-13mm-schulz-fi500p-500w-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445687929"
+  },
+  {
+   "id": "mlb-5445755103",
+   "nome": "Bomba Para Piscina Dancor Pf-17 1cv 127v/220v - 254v",
+   "categoria": "Bombas para Piscina",
+   "marca": "Dancor",
+   "preco": 1081.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_863279-MLB91243042820_092025-E-bomba-para-piscina-dancor-pf-17-1cv-127v220v-254v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445755103"
+  },
+  {
+   "id": "mlb-5445761471",
+   "nome": "Serra Tico Tico Stanley Modelo Sj60k Com 4 Posições",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Stanley",
+   "preco": 451.15,
+   "precoAntigo": 499.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_931848-MLA99509747618_112025-E-serra-tico-tico-stanley-modelo-sj60k-com-4-posicoes-de.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445761471"
+  },
+  {
+   "id": "mlb-5445689219",
+   "nome": "Bomba Dágua Autoaspirante Claw 1/2cv Wma50h Até 25 Metros",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 539.6,
+   "precoAntigo": 568.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_871347-MLB91259110884_092025-E-bomba-dagua-autoaspirante-claw-12cv-wma50h-ate-25-metros.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445689219"
+  },
+  {
+   "id": "mlb-5445751625",
+   "nome": "Bomba Submersível Fênix 650 340w 1600l/h 127v",
+   "categoria": "Bombas d'Água",
+   "marca": "Fênix",
+   "preco": 322.9,
+   "precoAntigo": 339.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_999864-MLA115258913452_082026-E-bomba-submersivel-fnix-650-340w-1600lh-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445751625"
+  },
+  {
+   "id": "mlb-5445689173",
+   "nome": "Bomba Dágua Autoaspirante 1,5cv Claw Wma150h Até 40 Metros",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 799.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_923524-MLB92316718889_092025-E-bomba-dagua-autoaspirante-15cv-claw-wma150h-ate-40-metros.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445689173"
+  },
+  {
+   "id": "mlb-7867585458",
+   "nome": "Máquina De Solda Inverter Boxer Flama 201 Bv Azul E Preta",
+   "categoria": "Solda",
+   "marca": "Boxer",
+   "preco": 1389.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_622730-MLB91685586791_092025-E-maquina-de-solda-inverter-boxer-flama-201-bv-azul-e-preta.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867585458"
+  },
+  {
+   "id": "mlb-5445740133",
+   "nome": "Parafusadeira E Furadeira De Impacto 13mm 20v Dewalt",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Dewalt",
+   "preco": 1050.0,
+   "precoAntigo": 1105.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_860756-MLA99451844492_112025-E-parafusadeira-e-furadeira-de-impacto-13mm-20v-dewalt.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445740133"
+  },
+  {
+   "id": "mlb-5445746837",
+   "nome": "Bomba Centrífuga Dancor Pratika Ap-2r 0,5cv Preto",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 905.06,
+   "precoAntigo": 952.7,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_900739-MLA96133327967_102025-E-bomba-centrifuga-dancor-pratika-ap-2r-05cv-preto.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445746837"
+  },
+  {
+   "id": "mlb-5445688045",
+   "nome": "Bomba Autoaspirante Monofásica Dancor Pratika Ap-3c 1cv",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 1269.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_855966-MLB91679965313_092025-E-bomba-autoaspirante-monofasica-dancor-pratika-ap-3c-1cv.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445688045"
+  },
+  {
+   "id": "mlb-5445688747",
+   "nome": "Bomba Autoaspirante Monofásica Claw Wmai75h 1cv 110v-127v",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 859.85,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_879428-MLB92354629907_092025-E-bomba-autoaspirante-monofasica-claw-wmai75h-1cv-110v-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445688747"
+  },
+  {
+   "id": "mlb-5445729503",
+   "nome": "Aspirador É Industrial Tambor Schulz Hidropó 1200w 50l 127v",
+   "categoria": "Aspiradores e Lavadoras",
+   "marca": "Schulz",
+   "preco": 1629.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_843666-MLA48023008900_102021-E-aspirador-e-industrial-tambor-schulz-hidropo-1200w-50l-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445729503"
+  },
+  {
+   "id": "mlb-5445688691",
+   "nome": "Aspirador É Industrial Tambor Schulz Hidropó 2000w 70l 220v",
+   "categoria": "Aspiradores e Lavadoras",
+   "marca": "Schulz",
+   "preco": 2702.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_914666-MLB91926099828_092025-E-aspirador-e-industrial-tambor-schulz-hidropo-2000w-70l-220v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445688691"
+  },
+  {
+   "id": "mlb-5445747129",
+   "nome": "Aspirador Sólidos/líquidos 1400w 20l Ahs 1420 127v - Schulz",
+   "categoria": "Aspiradores e Lavadoras",
+   "marca": "Schulz",
+   "preco": 560.4,
+   "precoAntigo": 589.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_662638-MLB120419238319_102026-E-aspirador-solidosliquidos-1400w-20l-ahs-1420-127v-schulz.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445747129"
+  },
+  {
+   "id": "mlb-7867921248",
+   "nome": "Bomba Autoaspirante Tramontina Bta10i 127/220 Inox Prateado",
+   "categoria": "Bombas d'Água",
+   "marca": "Tramontina",
+   "preco": 617.4,
+   "precoAntigo": 649.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_788329-MLA110469781196_052026-E-bomba-autoaspirante-tramontina-bta10i-127220-inox-prateado.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867921248"
+  },
+  {
+   "id": "mlb-5445747349",
+   "nome": "Climatizador Venti-delta Brisa 35l Branco 100w 3",
+   "categoria": "Climatização",
+   "marca": "Venti-Delta",
+   "preco": 1048.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_901311-MLA99908335129_112025-E-climatizador-venti-delta-brisa-35l-branco-100w-3.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445747349"
+  },
+  {
+   "id": "mlb-5445736055",
+   "nome": "Triturador Tramontina Te 25t 79852342 2cv Martelo Jardim",
+   "categoria": "Jardim",
+   "marca": "Tramontina",
+   "preco": 1799.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_640336-MLA99542517254_122025-E-triturador-tramontina-te-25t-79852342-2cv-martelo-jardim.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445736055"
+  },
+  {
+   "id": "mlb-7867874230",
+   "nome": "Bomba Claw Auto Aspirante Wmpa37h - 1/2cv 127v",
+   "categoria": "Bombas d'Água",
+   "marca": "Claw",
+   "preco": 310.27,
+   "precoAntigo": 326.6,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_860456-MLB91637517875_092025-E-bomba-claw-auto-aspirante-wmpa37h-12cv-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867874230"
+  },
+  {
+   "id": "mlb-5445734613",
+   "nome": "Bomba Centrífuga Centrífuga Monofásica Dancor Ultra Dc-4",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 576.99,
+   "precoAntigo": 607.36,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_952498-MLB91282687910_092025-E-bomba-centrifuga-centrifuga-monofasica-dancor-ultra-dc-4.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445734613"
+  },
+  {
+   "id": "mlb-5445738177",
+   "nome": "Serra Mármore 4.3/8 1450w Ws3905u Wesco E Refrigeração 127v",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Wesco",
+   "preco": 393.99,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_703553-MLA107021116713_022026-E-serra-marmore-438-1450w-ws3905u-wesco-e-refrigeraco-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445738177"
+  },
+  {
+   "id": "mlb-5445738009",
+   "nome": "Stanley Spt116 Serra Mármore Elétrico Am/preto 125mm 127v",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Stanley",
+   "preco": 332.4,
+   "precoAntigo": 349.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_789276-MLA92924966848_092025-E-stanley-spt116-serra-marmore-eletrico-ampreto-125mm-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445738009"
+  },
+  {
+   "id": "mlb-5445746903",
+   "nome": "Blukit Reparo 2550 Kit Para Válvula Descarga Hydra Max Clean",
+   "categoria": "Hidráulica",
+   "marca": "Blukit",
+   "preco": 52.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_638329-MLB90061041938_082025-E-blukit-reparo-2550-kit-para-valvula-descarga-hydra-max-clean.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445746903"
+  },
+  {
+   "id": "mlb-5445756187",
+   "nome": "Máquina De Solda Inversora Touch 145 140a Bivolt Boxer Azul",
+   "categoria": "Solda",
+   "marca": "Boxer",
+   "preco": 590.9,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_898479-MLB118155713777_092026-E-maquina-de-solda-inversora-touch-145-140a-bivolt-boxer-azul.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445756187"
+  },
+  {
+   "id": "mlb-5445755555",
+   "nome": "Aspirador É Industrial Tambor Schulz Hidropó 1200w 50",
+   "categoria": "Aspiradores e Lavadoras",
+   "marca": "Schulz",
+   "preco": 1629.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_728747-MLB91307795608_092025-E-aspirador-e-industrial-tambor-schulz-hidropo-1200w-50.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445755555"
+  },
+  {
+   "id": "mlb-5445755317",
+   "nome": "Bomba Piscina Dancor Pf-17 0.5cv 127v/220v - 254v",
+   "categoria": "Bombas para Piscina",
+   "marca": "Dancor",
+   "preco": 859.46,
+   "precoAntigo": 904.7,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_859747-MLB91674024763_092025-E-bomba-piscina-dancor-pf-17-05cv-127v220v-254v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445755317"
+  },
+  {
+   "id": "mlb-7867915746",
+   "nome": "Bomba Para Piscina Dancor Pf-17 1/3cv 127v/220v - 254v",
+   "categoria": "Bombas para Piscina",
+   "marca": "Dancor",
+   "preco": 925.5,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_782432-MLA48269989649_112021-E-bomba-para-piscina-dancor-pf-17-13cv-127v220v-254v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867915746"
+  },
+  {
+   "id": "mlb-5445737653",
+   "nome": "Motobomba Dágua Joga Até 70 Metros Dancor Autoaspirante 2cv",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 1999.0,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_926261-MLB92381614993_092025-E-motobomba-dagua-joga-ate-70-metros-dancor-autoaspirante-2cv.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445737653"
+  },
+  {
+   "id": "mlb-5445742655",
+   "nome": "Bomba Para Piscina Dancor Pf-17 1cv 127v/220v - 254v",
+   "categoria": "Bombas para Piscina",
+   "marca": "Dancor",
+   "preco": 1047.0,
+   "precoAntigo": 1102.0,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_679477-MLU70004420989_062023-E-bomba-para-piscina-dancor-pf-17-1cv-127v220v-254v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445742655"
+  },
+  {
+   "id": "mlb-7867923176",
+   "nome": "Serra Mármore 4.3/8 1450w Ws3905u Wesco E Refrigeração 127v",
+   "categoria": "Ferramentas Elétricas",
+   "marca": "Wesco",
+   "preco": 407.74,
+   "precoAntigo": null,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_703553-MLA107021116713_022026-E-serra-marmore-438-1450w-ws3905u-wesco-e-refrigeraco-127v.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867923176"
+  },
+  {
+   "id": "mlb-5445747017",
+   "nome": "Bomba Centrífuga Dancor Pratika Ap-2r 0,5cv Preto",
+   "categoria": "Bombas d'Água",
+   "marca": "Dancor",
+   "preco": 849.2,
+   "precoAntigo": 893.9,
+   "imagens": [
+    "https://http2.mlstatic.com/D_Q_NP_2X_900739-MLA96133327967_102025-E-bomba-centrifuga-dancor-pratika-ap-2r-05cv-preto.webp"
+   ],
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445747017"
+  }
+ ]
+}
