@@ -51,6 +51,11 @@ main{padding:16px}
 .btn.sec{background:#fff;color:var(--azul);border:2px solid var(--azul)}
 .mais{display:block;margin:24px auto 0}
 .produto{display:grid;grid-template-columns:1fr 1fr;gap:28px;background:var(--card);padding:22px;border-radius:12px}
+.img.grande{border:1px solid #eceef5;border-radius:10px}
+.thumbs{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+.th{width:64px;height:64px;padding:2px;border:2px solid #dfe2ee;border-radius:8px;background:#fff;cursor:pointer;overflow:hidden}
+.th img{width:100%;height:100%;object-fit:contain;display:block}
+.th.on{border-color:var(--vermelho)}
 .produto h1{font-size:1.4rem;margin:6px 0 10px}
 .produto .preco{font-size:2rem}
 .produto .acoes{display:flex;flex-direction:column;gap:10px;margin:18px 0}
