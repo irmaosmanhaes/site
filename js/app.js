@@ -7,12 +7,16 @@ const LOGO = `<svg viewBox="0 0 54 36" aria-hidden="true"><path d="M2 20 L27 4 L
 
 function cabecalho() {
   document.getElementById('topo').innerHTML = `<div class="in">
-    <a class="logo" href="index.html"><img src="img/logo.webp" alt="Irmãos Manhães"><div><span>IRMÃOS MANHÃES</span><small>Tudo para sua reforma, casa ou negócio</small></div></a>
-    <nav><a href="index.html">Catálogo</a><a href="https://www.instagram.com/irmaosmanhaes/" target="_blank" rel="noopener">Instagram</a></nav></div>`;
+    <a class="logo" href="/"><img src="/img/logo.webp" alt="Irmãos Manhães"><div><span>IRMÃOS MANHÃES</span><small>Tudo para sua reforma, casa ou negócio</small></div></a>
+    <nav><a href="/">Catálogo</a><a href="https://www.instagram.com/irmaosmanhaes/" target="_blank" rel="noopener">Instagram</a></nav></div>`;
   document.getElementById('rodape').innerHTML = `<div class="in">
-    <div><strong>Irmãos Manhães</strong><br>40+ anos de confiança e tradição<br>Alcântara - São Gonçalo/RJ</div>
-    <div>Compra 100% segura pelo Mercado Livre.<br>Ao clicar em comprar você é levado ao anúncio oficial.</div>
-    <div><a href="https://www.instagram.com/irmaosmanhaes/" target="_blank" rel="noopener">@irmaosmanhaes</a><br>WhatsApp: (21) 2701-1051</div></div>`;
+    <div><strong>Irmãos Manhães</strong><br>40+ anos de confiança e tradição<br>Alcântara - São Gonçalo/RJ<br>
+      <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent('Irmãos Manhães Alcântara São Gonçalo RJ')}" target="_blank" rel="noopener">📍 Ver no mapa</a></div>
+    <div><strong>Atendimento</strong><br>Seg a Sex, 8h às 18h<br>Sábados, 8h às 14h<br>Entrega para todo o Rio de Janeiro</div>
+    <div><strong>Contato</strong><br>WhatsApp: <a href="https://wa.me/${WHATS}" target="_blank" rel="noopener">(21) 2701-1051</a><br>
+      <a href="https://www.instagram.com/irmaosmanhaes/" target="_blank" rel="noopener">@irmaosmanhaes</a></div>
+    <div class="rod-cats" id="rod-cats"></div></div>
+    <div class="in rod-fim">Compra 100% segura pelo Mercado Livre. Ao clicar em comprar você é levado ao anúncio oficial.</div>`;
   botaoWhats('Olá! Vim pelo site da Irmãos Manhães e gostaria de mais informações.');
 }
 
@@ -31,8 +35,8 @@ function carrossel() {
   if (!el) return;
   const wa = 'https://wa.me/' + WHATS + '?text=' + encodeURIComponent('Olá! Vim pelo site da Irmãos Manhães e gostaria de mais informações.');
   const slides = [
-    { src: 'img/banner-whatsapp.jpg', alt: 'Compre pelo WhatsApp (21) 2701-1051. Atendimento de segunda a sexta, das 8h às 18h, e aos sábados, das 8h às 14h.', href: wa },
-    { src: 'img/banner-entrega.jpg', alt: 'Aqui na Irmãos Manhães tem entrega para todo o Rio de Janeiro. Consulte condições com nossos vendedores.', href: wa }
+    { src: '/img/banner-whatsapp.jpg', alt: 'Compre pelo WhatsApp (21) 2701-1051. Atendimento de segunda a sexta, das 8h às 18h, e aos sábados, das 8h às 14h.', href: wa },
+    { src: '/img/banner-entrega.jpg', alt: 'Aqui na Irmãos Manhães tem entrega para todo o Rio de Janeiro. Consulte condições com nossos vendedores.', href: wa }
   ];
   el.innerHTML = '<div class="bn-track"></div><div class="bn-dots"></div>';
   const track = el.querySelector('.bn-track'), dots = el.querySelector('.bn-dots');
@@ -64,8 +68,15 @@ function carrossel() {
 }
 
 async function carregar() {
-  const r = await fetch('data/produtos.json');
-  return r.json();
+  const r = await fetch('/data/produtos.json');
+  const dados = await r.json();
+  const rc = document.getElementById('rod-cats');
+  if (rc) {
+    const cats = {};
+    dados.produtos.forEach(p => cats[p.catSlug] = p.categoria);
+    rc.innerHTML = '<strong>Categorias</strong>' + Object.entries(cats).map(([s, n]) => `<a href="/c/${s}.html">${esc(n)}</a>`).join('');
+  }
+  return dados;
 }
 
 const imgHtml = (p, i = 0) => p.imagens && p.imagens[i]
@@ -75,7 +86,7 @@ const desconto = p => p.precoAntigo && p.precoAntigo > p.preco ? Math.round((1 -
 
 function cardHtml(p) {
   const d = desconto(p);
-  return `<a class="card" href="produto.html?id=${encodeURIComponent(p.id)}">
+  return `<a class="card" href="/p/${p.slug}.html">
     <div class="img">${imgHtml(p)}</div>
     <div class="info"><span class="cat">${esc(p.marca || p.categoria)}</span>
     <span class="nome">${esc(p.nome)}</span>
@@ -120,12 +131,12 @@ async function iniciarCatalogo() {
 
 async function iniciarProduto() {
   cabecalho();
-  const id = new URLSearchParams(location.search).get('id');
+  const id = document.body.dataset.id || new URLSearchParams(location.search).get('id');
   const { produtos } = await carregar();
   const p = produtos.find(x => x.id === id);
   const el = document.getElementById('produto');
-  if (!p) { el.innerHTML = '<p>Produto não encontrado. <a href="index.html">Voltar</a></p>'; return; }
-  document.title = p.nome + ' - Irmãos Manhães';
+  if (!p) { el.innerHTML = '<p>Produto não encontrado. <a href="/">Voltar</a></p>'; return; }
+  if (!document.body.dataset.id) { location.replace('/p/' + p.slug + '.html'); return; }
   const d = desconto(p);
   const rel = produtos.filter(x => x.categoria === p.categoria && x.id !== p.id).slice(0, 4);
   const fotos = p.imagens || [];
@@ -135,8 +146,9 @@ async function iniciarProduto() {
     ${d ? `<div class="antigo" style="margin:0">${brl(p.precoAntigo)}</div>` : ''}
     <div class="preco">${brl(p.preco)}${d ? `<span class="off">${d}% OFF</span>` : ''}</div>
     <div class="acoes"><a class="btn" href="${esc(p.linkMercadoLivre)}" target="_blank" rel="noopener">Comprar no Mercado Livre</a>
-    <a class="btn sec" href="index.html?cat=${encodeURIComponent(p.categoria)}">Ver mais em ${esc(p.categoria)}</a></div>
-    <div class="selos">✔ Compra protegida pelo Mercado Livre<br>✔ Vendido por Irmãos Manhães<br>ℹ Preço e estoque confirmados no anúncio</div></div>`;
+    <a class="btn sec" href="/c/${p.catSlug}.html">Ver mais em ${esc(p.categoria)}</a></div>
+    <div class="selos">✔ Compra protegida pelo Mercado Livre<br>✔ Vendido por Irmãos Manhães<br>ℹ Preço e estoque confirmados no anúncio</div>
+    <p class="sobre">${esc(p.descricao || '')}</p></div>`;
   el.querySelectorAll('.th').forEach(b => {
     b.querySelector('img').onerror = () => b.remove();
     b.onclick = () => {
@@ -146,4 +158,9 @@ async function iniciarProduto() {
   });
   botaoWhats(`Olá! Vim pelo site da Irmãos Manhães e tenho interesse neste produto: ${p.nome} (${brl(p.preco)}). Está disponível?`);
   if (rel.length) document.getElementById('rel').innerHTML = '<h2>Veja também</h2><div class="grade">' + rel.map(cardHtml).join('') + '</div>';
+}
+
+async function iniciarPagina() {
+  cabecalho();
+  await carregar();
 }
