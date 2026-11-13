@@ -2734,7 +2734,8 @@
     "https://http2.mlstatic.com/D_Q_NP_2X_637519-MLU72612732695_112023-E.webp",
     "https://http2.mlstatic.com/D_Q_NP_2X_782623-MLB118739631226_102026-E.webp"
    ],
-   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445733579"
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445733579",
+   "indisponivel": true
   },
   {
    "id": "mlb-5445738245",
@@ -2943,7 +2944,8 @@
     "https://http2.mlstatic.com/D_Q_NP_2X_873721-MLB111347852470_052026-E.webp",
     "https://http2.mlstatic.com/D_Q_NP_2X_789949-MLA112387275735_052026-E.webp"
    ],
-   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867921028"
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867921028",
+   "indisponivel": true
   },
   {
    "id": "mlb-5445734055",
@@ -3125,7 +3127,8 @@
     "https://http2.mlstatic.com/D_Q_NP_2X_916904-MLB49609476797_042022-E.webp",
     "https://http2.mlstatic.com/D_Q_NP_2X_618138-MLB118352063024_102026-E.webp"
    ],
-   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867918962"
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7867918962",
+   "indisponivel": true
   },
   {
    "id": "mlb-7867915418",
@@ -3577,7 +3580,8 @@
     "https://http2.mlstatic.com/D_Q_NP_2X_870912-MLU69584368776_052023-E.webp",
     "https://http2.mlstatic.com/D_Q_NP_2X_776411-MLU70023977419_062023-E.webp"
    ],
-   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445742301"
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445742301",
+   "indisponivel": true
   },
   {
    "id": "mlb-5445734809",
@@ -3935,7 +3939,8 @@
     "https://http2.mlstatic.com/D_Q_NP_2X_954614-MLB71102430608_082023-E.webp",
     "https://http2.mlstatic.com/D_Q_NP_2X_993482-MLB71141062463_082023-E.webp"
    ],
-   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445689219"
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445689219",
+   "indisponivel": true
   },
   {
    "id": "mlb-5445751625",
@@ -4020,7 +4025,8 @@
    "imagens": [
     "https://http2.mlstatic.com/D_Q_NP_2X_900739-MLA96133327967_102025-E.webp"
    ],
-   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445746837"
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445746837",
+   "indisponivel": true
   },
   {
    "id": "mlb-5445688045",
@@ -4105,7 +4111,8 @@
     "https://http2.mlstatic.com/D_Q_NP_2X_709666-MLB93860524192_102025-E.webp",
     "https://http2.mlstatic.com/D_Q_NP_2X_667913-MLB94285588365_102025-E.webp"
    ],
-   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445747129"
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5445747129",
+   "indisponivel": true
   },
   {
    "id": "mlb-7867921248",
@@ -4943,7 +4950,8 @@
     "https://http2.mlstatic.com/D_Q_NP_2X_881626-MLU75436822884_042024-E.webp",
     "https://http2.mlstatic.com/D_Q_NP_2X_888159-MLU75592827363_042024-E.webp"
    ],
-   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7952737174"
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7952737174",
+   "indisponivel": true
   },
   {
    "id": "mlb-5522409129",
@@ -5018,7 +5026,8 @@
     "https://http2.mlstatic.com/D_Q_NP_2X_746734-MLA88962331473_072025-E.webp",
     "https://http2.mlstatic.com/D_Q_NP_2X_783544-MLA113447448942_072026-E.webp"
    ],
-   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7952725106"
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-7952725106",
+   "indisponivel": true
   },
   {
    "id": "mlb-5522409967",
@@ -5158,7 +5167,8 @@
    "imagens": [
     "https://http2.mlstatic.com/D_Q_NP_2X_705974-MLA96873582129_102025-E.webp"
    ],
-   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5522417579"
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5522417579",
+   "indisponivel": true
   },
   {
    "id": "mlb27723135",
@@ -5684,7 +5694,8 @@
     "https://http2.mlstatic.com/D_Q_NP_2X_908918-MLA97981983421_112025-E.webp",
     "https://http2.mlstatic.com/D_Q_NP_2X_917908-MLB116110618161_082026-E.webp"
    ],
-   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5522442015"
+   "linkMercadoLivre": "https://produto.mercadolivre.com.br/MLB-5522442015",
+   "indisponivel": true
   },
   {
    "id": "mlb26087480",

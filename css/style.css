@@ -71,3 +71,7 @@ footer .in{display:flex;gap:28px;flex-wrap:wrap;justify-content:space-between}
 .sobre{color:var(--mut);font-size:.88rem;line-height:1.5;margin-top:14px}
 footer a{color:#fff}
 @media(max-width:700px){.produto{grid-template-columns:1fr}.hero h1{font-size:1.35rem}header nav{margin-left:0}}
+.indisp{display:inline-block;color:#8a4b00;background:#fff4e0;border:1px solid #f3c677;border-radius:6px;padding:6px 10px;font-size:.85rem;font-weight:700;line-height:1.35}
+.aviso-indisp{margin:12px 0}
+.btn.zap{background:#25d366}
+.card.fora .img{opacity:.55}

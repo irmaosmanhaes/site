@@ -84,8 +84,17 @@ const imgHtml = (p, i = 0) => p.imagens && p.imagens[i]
 
 const desconto = p => p.precoAntigo && p.precoAntigo > p.preco ? Math.round((1 - p.preco / p.precoAntigo) * 100) : 0;
 
+const MSG_INDISP = 'Indisponível no Mercado Livre no momento. Confira a disponibilidade pelo WhatsApp.';
+
 function cardHtml(p) {
   const d = desconto(p);
+  if (p.indisponivel) {
+    return `<a class="card fora" href="/p/${p.slug}.html">
+    <div class="img">${imgHtml(p)}</div>
+    <div class="info"><span class="cat">${esc(p.marca || p.categoria)}</span>
+    <span class="nome">${esc(p.nome)}</span>
+    <span class="indisp">Indisponível no momento</span></div></a>`;
+  }
   return `<a class="card" href="/p/${p.slug}.html">
     <div class="img">${imgHtml(p)}</div>
     <div class="info"><span class="cat">${esc(p.marca || p.categoria)}</span>
@@ -143,11 +152,14 @@ async function iniciarProduto() {
   const thumbs = fotos.length > 1 ? `<div class="thumbs">${fotos.map((u, i) => `<button class="th${i ? '' : ' on'}" data-i="${i}" aria-label="Foto ${i + 1}"><img src="${esc(u)}" alt="" loading="lazy" referrerpolicy="no-referrer"></button>`).join('')}</div>` : '';
   el.innerHTML = `<div><div class="img grande" id="principal">${imgHtml(p)}</div>${thumbs}</div>
     <div><span class="cat">${esc(p.categoria)}${p.marca ? ' · ' + esc(p.marca) : ''}</span><h1>${esc(p.nome)}</h1>
+    ${p.indisponivel ? `<div class="aviso-indisp"><span class="indisp">${MSG_INDISP}</span></div>
+    <div class="acoes"><a class="btn zap" href="https://wa.me/${WHATS}?text=${encodeURIComponent('Olá! Vim pelo site da Irmãos Manhães e vi que este produto está indisponível no Mercado Livre: ' + p.nome + '. Ainda tem disponível?')}" target="_blank" rel="noopener">Consultar no WhatsApp</a>
+    <a class="btn sec" href="/c/${p.catSlug}.html">Ver mais em ${esc(p.categoria)}</a></div>` : `
     ${d ? `<div class="antigo" style="margin:0">${brl(p.precoAntigo)}</div>` : ''}
     <div class="preco">${brl(p.preco)}${d ? `<span class="off">${d}% OFF</span>` : ''}</div>
     <div class="acoes"><a class="btn" href="${esc(p.linkMercadoLivre)}" target="_blank" rel="noopener">Comprar no Mercado Livre</a>
     <a class="btn sec" href="/c/${p.catSlug}.html">Ver mais em ${esc(p.categoria)}</a></div>
-    <div class="selos">✔ Compra protegida pelo Mercado Livre<br>✔ Vendido por Irmãos Manhães<br>ℹ Preço e estoque confirmados no anúncio</div>
+    <div class="selos">✔ Compra protegida pelo Mercado Livre<br>✔ Vendido por Irmãos Manhães<br>ℹ Preço e estoque confirmados no anúncio</div>`}
     <p class="sobre">${esc(p.descricao || '')}</p></div>`;
   el.querySelectorAll('.th').forEach(b => {
     b.querySelector('img').onerror = () => b.remove();
@@ -156,7 +168,9 @@ async function iniciarProduto() {
       el.querySelectorAll('.th').forEach(x => x.classList.toggle('on', x === b));
     };
   });
-  botaoWhats(`Olá! Vim pelo site da Irmãos Manhães e tenho interesse neste produto: ${p.nome} (${brl(p.preco)}). Está disponível?`);
+  botaoWhats(p.indisponivel
+    ? `Olá! Vim pelo site da Irmãos Manhães e vi que este produto está indisponível no Mercado Livre: ${p.nome}. Ainda tem disponível?`
+    : `Olá! Vim pelo site da Irmãos Manhães e tenho interesse neste produto: ${p.nome} (${brl(p.preco)}). Está disponível?`);
   if (rel.length) document.getElementById('rel').innerHTML = '<h2>Veja também</h2><div class="grade">' + rel.map(cardHtml).join('') + '</div>';
 }
 
